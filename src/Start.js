@@ -30,7 +30,7 @@ const ProjectsSummary = () => (
 );
 
 function Start() {
-    const defaultMarkerCoordinates = [52.23210346936886, 21.024108900043892];
+    const defaultMarkerCoordinates = [52.204790, 18.963228];
     const customIcon = icon({
         iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
         shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
@@ -45,7 +45,7 @@ function Start() {
                         <div className="column is-half aligned-left">
                             <ProjectsSummary />
                         </div>
-                        <MapContainer id="map" className="column is-half" center={defaultMarkerCoordinates} zoom={13} scrollWheelZoom={false}>
+                        <MapContainer id="map" className="column is-half" center={defaultMarkerCoordinates} zoom={6} scrollWheelZoom={false}>
                             <TileLayer
                                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
                                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"

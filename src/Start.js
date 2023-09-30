@@ -1,11 +1,17 @@
 import React from "react";
 import { Link } from 'react-router-dom';
+import { icon } from 'leaflet';
 import { MapContainer, Marker, Popup, TileLayer } from 'react-leaflet';
+import MarkerClusterGroup from 'react-leaflet-cluster';
 
 import projects from './projects.json';
 
 function Start() {
     const defaultMarkerCoordinates = [52.23210346936886, 21.024108900043892];
+    const customIcon = icon({
+        iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
+        shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
+    });
 
     return (
         <section className="hero is-fullheight is-info">
@@ -32,13 +38,16 @@ function Start() {
                                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
                                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                             />
-                            {projects.map((project, idx) => <Marker position={[project.coords.lat, project.coords.long]}>
-                                <Popup>
-                                    <h3>{project.tytul}</h3>
-                                    <p>Wartość projektu: {project.wartosc}</p>
-                                    <p>Dofinansowanie UE: {project.dofinansowanie}</p>
-                                </Popup>
-                            </Marker>)}
+                            <MarkerClusterGroup chunkedLoading>
+                            {projects.map((project, idx) => 
+                                <Marker position={[project.coords.lat, project.coords.long]} icon={customIcon}>
+                                    <Popup>
+                                        <h3>{project.tytul}</h3>
+                                        <p>Wartość projektu: {project.wartosc}</p>
+                                        <p>Dofinansowanie UE: {project.dofinansowanie}</p>
+                                    </Popup>
+                                </Marker>)}
+                            </MarkerClusterGroup>
                         </MapContainer>
                     </div>
                 </div>

@@ -15,8 +15,14 @@
   color: #000;
 }
 
-.bigTitle {
+.big {
   font-size: 3.625rem;
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+.medium {
+  font-size: 2.125rem;
   font-weight: bold;
   line-height: 1.2;
 }
@@ -25,6 +31,10 @@
   color: #fff;
   font-size: 1.2rem;
   line-height: 1.2;
+}
+
+.aligned-left {
+  text-align: left;
 }
 
 .column.mapInfo {
@@ -36,6 +46,10 @@
   color: #ffa563;
 }
 
-.no-padding {
-  padding: 0;
+.bold {
+  font-weight: bold;
+}
+
+.margin-top {
+  margin-top: 1rem;
 }

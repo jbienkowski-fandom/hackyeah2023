@@ -6,6 +6,29 @@ import MarkerClusterGroup from 'react-leaflet-cluster';
 
 import projects from './projects.json';
 
+const Menu = () => (
+    <>
+        <p className="title">
+            EUfunds title
+        </p>
+        <p className="subtitle">
+            <Link to={'/vote'}>Głosuj</Link>
+        </p>
+    </>
+);
+
+const ProjectsSummary = () => (
+    <>
+        <div className="big orange">Polska</div>
+        <div className="margin-top">liczba projektów</div>
+        <div className="medium">298957</div>
+        <div className="margin-top">wartość projektów</div>
+        <div className="medium">1 204 569 431 193,50 zł</div>
+        <div className="margin-top">dofinansowanie z Unii Europejskiej</div>
+        <div className="orange medium bold">713 568 304 336,66 zł</div>
+    </>
+);
+
 function Start() {
     const defaultMarkerCoordinates = [52.23210346936886, 21.024108900043892];
     const customIcon = icon({
@@ -17,21 +40,10 @@ function Start() {
         <section className="hero is-fullheight is-info">
             <div className="hero-body">
                 <div className="container has-text-centered">
-                    <p className="title">
-                        EUfunds title
-                    </p>
-                    <p className="subtitle">
-                        <Link to={'/vote'}>Głosuj</Link>
-                    </p>
+                    <Menu />
                     <div className="columns">
-                        <div className="column is-half">
-                            <div className="bigTitle orange">Polska</div>
-                            <div>liczba projektów</div>
-                            <div>298957</div>
-                            <div>wartość projektów</div>
-                            <div>1 204 569 431 193,50 zł</div>
-                            <div>dofinansowanie z Unii Europejskiej</div>
-                            <div className="orange">713 568 304 336,66 zł</div>
+                        <div className="column is-half aligned-left">
+                            <ProjectsSummary />
                         </div>
                         <MapContainer id="map" className="column is-half" center={defaultMarkerCoordinates} zoom={13} scrollWheelZoom={false}>
                             <TileLayer

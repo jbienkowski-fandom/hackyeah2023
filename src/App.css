@@ -1,8 +1,39 @@
 @import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
 @import url("https://unpkg.com/leaflet@1.9.4/dist/leaflet.css");
 
+header {
+  background-image: url('https://mapadotacji.gov.pl/wp-content/themes/mapa-dotacji/img/big-map-bg.jpg');
+  height: 500px;
+  width: 1280px;
+}
+
 #map {
   margin: 0 auto;
-  height: 640px;
-  width: 800px;
+  height: 500px;
+  width: 640px;
+}
+
+.bigTitle {
+  font-size: 3.625rem;
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+.mapInfo {
+  color: #fff;
+  font-size: 1.2rem;
+  line-height: 1.2;
+}
+
+.column.mapInfo {
+  font-family: sans-serif;
+  padding: 2rem 8rem;
+}
+
+.orange {
+  color: #ffa563;
+}
+
+.no-padding {
+  padding: 0;
 }

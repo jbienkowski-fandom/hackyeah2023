@@ -2,6 +2,8 @@ import React from "react";
 import { Link } from 'react-router-dom';
 import { MapContainer, Marker, Popup, TileLayer } from 'react-leaflet';
 
+import projects from './projects.json';
+
 function Start() {
     const defaultMarkerCoordinates = [52.23210346936886, 21.024108900043892];
 
@@ -15,19 +17,30 @@ function Start() {
                     <p className="subtitle">
                         <Link to={'/vote'}>Głosuj</Link>
                     </p>
-                    <MapContainer id="map" center={defaultMarkerCoordinates} zoom={13} scrollWheelZoom={false}>
-                        <TileLayer
-                            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-                            url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-                        />
-                        <Marker position={defaultMarkerCoordinates}>
-                            <Popup>
-                                <h3>Rearanżacja stałej ekspozycji Galerii Sztuki Starożytnej Muzeum Narodowego w Warszawie</h3>
-                                <p>Wartość projektu: 19 153 240,47 zł</p>
-                                <p>Dofinansowanie UE: 9 777 078,62 zł</p>
-                            </Popup>
-                        </Marker>
-                    </MapContainer>
+                    <div className="columns">
+                        <div className="column is-half">
+                            <div className="bigTitle orange">Polska</div>
+                            <div>liczba projektów</div>
+                            <div>298957</div>
+                            <div>wartość projektów</div>
+                            <div>1 204 569 431 193,50 zł</div>
+                            <div>dofinansowanie z Unii Europejskiej</div>
+                            <div className="orange">713 568 304 336,66 zł</div>
+                        </div>
+                        <MapContainer id="map" className="column is-half" center={defaultMarkerCoordinates} zoom={13} scrollWheelZoom={false}>
+                            <TileLayer
+                                attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                                url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+                            />
+                            {projects.map((project, idx) => <Marker position={[project.coords.lat, project.coords.long]}>
+                                <Popup>
+                                    <h3>{project.tytul}</h3>
+                                    <p>Wartość projektu: {project.wartosc}</p>
+                                    <p>Dofinansowanie UE: {project.dofinansowanie}</p>
+                                </Popup>
+                            </Marker>)}
+                        </MapContainer>
+                    </div>
                 </div>
             </div>
         </section>

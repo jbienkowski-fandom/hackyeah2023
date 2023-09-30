@@ -1,16 +1,18 @@
 @import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
 @import url("https://unpkg.com/leaflet@1.9.4/dist/leaflet.css");
 
-header {
+.hero.is-info {
   background-image: url('https://mapadotacji.gov.pl/wp-content/themes/mapa-dotacji/img/big-map-bg.jpg');
-  height: 500px;
-  width: 1280px;
 }
 
 #map {
   margin: 0 auto;
   height: 500px;
   width: 640px;
+}
+
+#map .leaflet-control-container {
+  color: #000;
 }
 
 .bigTitle {

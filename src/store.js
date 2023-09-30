@@ -4,11 +4,12 @@ import EloRank from "elo-rank";
 
 const INITIAL_SCORE = 1500;
 const rank = new EloRank(50);
+const idRegex = new RegExp(/https:\/\/mapadotacji.gov.pl\/projekty\/([0-9]+)/);
 
 export const useStore = create((set) => ({
-    projects: projects.map((project, idx) => ({
+    projects: projects.map((project) => ({
         ...project,
-        id: idx + 1,
+        id: parseInt(project.url.match(idRegex)?.[1], 10),
         score: INITIAL_SCORE,
     })),
     visibleProjects: [],

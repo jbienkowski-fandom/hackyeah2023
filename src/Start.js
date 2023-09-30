@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from "react";
+import React, {useEffect} from "react";
 import {Link} from 'react-router-dom';
 import {icon} from 'leaflet';
 import {MapContainer, Marker, Popup, TileLayer, useMap} from 'react-leaflet';
@@ -18,6 +18,10 @@ const Menu = () => (
 
 const ProjectsSummary = () => {
     const visibleProjects = useStore(state => state.visibleProjects);
+    const parseToNum = (str) => parseFloat(str.replace(/\s/g, '').replace(',', '.'));
+    const formatNum = (num) => num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ").replace('.', ',');
+    const sumWartosc = visibleProjects.reduce((acc, v) => acc + parseToNum(v.wartosc), 0).toFixed(2);
+    const sumDofinansowanie = visibleProjects.reduce((acc, v) => acc + parseToNum(v.dofinansowanie), 0).toFixed(2);
 
     return (
         <>
@@ -25,9 +29,9 @@ const ProjectsSummary = () => {
             <div className="margin-top">liczba projektów</div>
             <div className="medium">{visibleProjects.length}</div>
             <div className="margin-top">wartość projektów</div>
-            <div className="medium">1 204 569 431 193,50 zł</div>
+            <div className="medium">{formatNum(sumWartosc)} zł</div>
             <div className="margin-top">dofinansowanie z Unii Europejskiej</div>
-            <div className="orange medium bold">713 568 304 336,66 zł</div>
+            <div className="orange medium bold">{formatNum(sumDofinansowanie)} zł</div>
         </>
     );
 }

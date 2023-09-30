@@ -3,42 +3,1469 @@
     "url": "https://mapadotacji.gov.pl/projekty/747096/",
     "tytul": "Rearanżacja stałej ekspozycji Galerii Sztuki Starożytnej Muzeum Narodowego w Warszawie",
     "beneficjent": "MUZEUM NARODOWE W WARSZAWIE",
-    "wartosc": "19 153 240,47",
-    "dofinansowanie": "9 777 078,62",
+    "wartosc": "19153240.47",
+    "dofinansowanie": "9777078.62",
     "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
     "coords": {
       "lat": 52.23210346936886,
       "long": 21.024108900043892
     },
-    "fotos": ["https://mapadotacji.gov.pl/sb-user-files/240abe466bf1c83c0ed265df6b70a387.jpg"],
-    "score": 1500
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/240abe466bf1c83c0ed265df6b70a387.jpg"
+    ]
   },
   {
     "url": "https://mapadotacji.gov.pl/projekty/747051/",
     "tytul": "Akademia Otwarta - przebudowa i renowacja Pałacu Czapskich Akademii Sztuk Pięknych w Warszawie",
     "beneficjent": "AKADEMIA SZTUK PIĘKNYCH W WARSZAWIE",
-    "wartosc": "26 430 919,07",
-    "dofinansowanie": "17 288 530,83",
+    "wartosc": "26430919.07",
+    "dofinansowanie": "17288530.83",
     "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
     "coords": {
       "lat": 52.23956864898585,
       "long": 21.015089182264123
     },
-    "fotos": ["https://mapadotacji.gov.pl/sb-user-files/abbc5761636968fade5623a1971addc9.jpg"],
-    "score": 1500
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/abbc5761636968fade5623a1971addc9.jpg"
+    ]
   },
   {
-    "url": "https://mapadotacji.gov.pl/projekty/747096/",
+    "url": ".https://mapadotacji.gov.pl/projekty/747042/",
+    "tytul": "STAJNIE PEGAZA. Konserwacja i remont Stajni Kubickiego na terenie Muzeum Łazienki Królewskie w Warszawie. Adaptacja obiektu do potrzeb ekspozycyjnych i edukacyjnych wraz z wprowadzeniem rozwiązań efektywnych energetycznie.",
+    "beneficjent": "MUZEUM ŁAZIENKI KRÓLEWSKIE W WARSZAWIE",
+    "wartosc": "10 964 250,73 ",
+    "dofinansowanie": "7 105 906,98 ",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 52.21448268176174,
+      "long": 21.039202606388784
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/142d4a87b9202c0e238b5e1bb62a5492.jpg",
+      "https://mapadotacji.gov.pl/sb-user-files/b5aaec5a47fb5a0881a02442271defa9.jpg, https://mapadotacji.gov.pl/sb-user-files/ab74b285dc38c22fba771efabba98b55.jpg"
+    ]
+  },
+  {
+    "url": "Modernizacja czytelń i przestrzeni publicznych Biblioteki Narodowej - Mapa dotacji",
     "tytul": "Modernizacja czytelń i przestrzeni publicznych Biblioteki Narodowej",
     "beneficjent": "BIBLIOTEKA NARODOWA",
     "wartosc": "41 549 462,95",
     "dofinansowanie": "22 226 539,18",
     "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
     "coords": {
-      "lat": "52.25034543609794",
-      "long": "21.0046598445934"
+      "lat": 52.23210346936886,
+      "long": 21.00325943616006
     },
-    "fotos": ["https://mapadotacji.gov.pl/sb-user-files/240abe466bf1c83c0ed265df6b70a387.jpg"],
-    "score": 1500
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/cbc831e00afb79b56263ea1d39f77dc9.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747051/",
+    "tytul": "Akademia Otwarta - przebudowa i renowacja Pałacu Czapskich Akademii Sztuk Pięknych w Warszawie",
+    "beneficjent": "AKADEMIA SZTUK PIĘKNYCH W WARSZAWIE",
+    "wartosc": "26430919.07",
+    "dofinansowanie": "17288530.83",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 52.23956864898585,
+      "long": 21.015089182264123
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/abbc5761636968fade5623a1971addc9.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/760179/",
+    "tytul": "Modernizacja Muzeum Woli-oddziału Muzeum Warszawy przy ul. Srebrnej 12 w Warszawie",
+    "beneficjent": "MUZEUM WARSZAWY",
+    "wartosc": "10 375 840,11",
+    "dofinansowanie": "2 947 227,80",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 52.22787978771601,
+      "long": 20.989715964666562
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/bcbf783b81a0aba905faad641d628a63.jpg, https://mapadotacji.gov.pl/sb-user-files/03708c9fb0c1563cb5313691b4afa2c9.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747098/",
+    "tytul": "Rearanżacja stałej ekspozycji Galerii Sztuki Starożytnej Muzeum Narodowego w Warszawie",
+    "beneficjent": "MUZEUM NARODOWE W WARSZAWIE",
+    "wartosc": "19153240.47",
+    "dofinansowanie": "9777078.62",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 52.23210346936886,
+      "long": 21.024108900043892
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/240abe466bf1c83c0ed265df6b70a387.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/760148/",
+    "tytul": "Utworzenie Muzeum Polskiej Wódki w celu zachowania dziedzictwa kulturowego historycznie polskiego produktu o Chronionym Oznaczeniu Geograficznym",
+    "beneficjent": "FUNDACJA POLSKA WÓDKA",
+    "wartosc": "7 639 468,54",
+    "dofinansowanie": "2 523 960,00",
+    "program": "Regionalny Program Operacyjny Województwa Mazowieckiego na lata 2014-2020",
+    "coords": {
+      "lat": 52.247170846199815,
+      "long": 21.008577569868702
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/7293874/5_7293874.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.https://mapadotacji.gov.pl/projekty/734507/.pl/projekty/707068/",
+    "tytul": "Adaptacja podziemi Katedry Polowej WP na Muzeum Ordynariatu Polowego – Oddział Muzeum Historycznego m. st. Warszawy.",
+    "beneficjent": "Miasto stołeczne Warszawa",
+    "wartosc": "110 956 800,33",
+    "dofinansowanie": "6 573 350,87",
+    "program": "Regionalny Program Operacyjny Województwa Mazowieckiego",
+    "coords": {
+      "lat": 52.24894502294237,
+      "long": 21.0067865470314
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/f53fb6f774b13bea4249b6b09f80ebfd.jpeg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/684296/",
+    "tytul": "Budowa Centrum Nauki Kopernik w Warszawie",
+    "beneficjent": "Miasto Stołeczne Warszawa",
+    "wartosc": "364 779 247,06",
+    "dofinansowanie": "206 784 744,68",
+    "program": "Program Operacyjny Infrastruktura i Środowisko",
+    "coords": {
+      "lat": 52.24380044848947,
+      "long": 21.000514061253018
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/1178477/5_1178477.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747036/ ",
+    "tytul": "Zakup sprzętu i wyposażenia na potrzeby nowoczesnych wystaw Państwowego Muzeum Etnograficznego i świadczonych w nim działań edukacyjno-kulturalnych",
+    "beneficjent": "PAŃSTWOWE MUZEUM ETNOGRAFICZNE W WARSZAWIE",
+    "wartosc": "8 458 702,11",
+    "dofinansowanie": "4 125 464,01",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 52.23818424812859,
+      "long": 21.012043429065745
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/f36f0240c213a347faa8c66d6f14af9d.jpg, https://mapadotacji.gov.pl/sb-user-files/db244c05bfa095be87df186be7319c48.jpg, https://mapadotacji.gov.pl/sb-user-files/dbd9a1509ee036b22710fb3b42c918e3.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/738689/",
+    "tytul": "Rewitalizacja i digitalizacja jedynej w Polsce barokowej rezydencji królewskiej w Wilanowie",
+    "beneficjent": "Muzeum Pałacu Króla Jana III w Wilanowie",
+    "wartosc": "18 854 348,06",
+    "dofinansowanie": "12 675 218,15",
+    "program": "Program Operacyjny Infrastruktura i Środowisko",
+    "coords": {
+      "lat": 52.165307804451295,
+      "long": 21.090530436634978
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/7cf579aa4b5783f97453d834190f3827.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/582860/",
+    "tytul": "Modernizacja nawierzchni ulicy Krakowskie Przedmieście",
+    "beneficjent": "Miasto Stołeczne Warszawa",
+    "wartosc": "34 842 053,25",
+    "dofinansowanie": "17 360 026,63",
+    "program": "Zintegrowany Program Operacyjny Rozwoju Regionalnego",
+    "coords": {
+      "lat": 52.25036332529807,
+      "long": 21.010891878384108
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/517584/4_517584.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/704735/",
+    "tytul": "Kompleksowa poprawa oferty kulturalnej i wzrost dostępności do kultury obiektów Muzeum Niepodległości wWarszawie poprzez rewitalizację i modernizację oddziału–Cytadeli Warszawskiej–w szczególności X Pawilonu,XI Pawilonu,Bramy Bielańskiej i dziedzińca",
+    "beneficjent": "Muzeum Niepodległości w Warszawie",
+    "wartosc": "12 942 688,52",
+    "dofinansowanie": "8 837 092,70",
+    "program": "Regionalny Program Operacyjny Województwa Mazowieckiego",
+    "coords": {
+      "lat": 52.24542708553526,
+      "long": 21.00418786856763
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/1222155/1_1222155.jpg, https://mapadotacji.gov.pl/wp-content/uploads/core_media/1222155/3_1222155.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/547571/",
+    "tytul": "Restauracja wnętrz pierwszego w Polsce muzeum sztuki - Muzeum Pałac w Wilanowie",
+    "beneficjent": "Muzeum Pałac w Wilanowie",
+    "wartosc": "6 000 054,98",
+    "dofinansowanie": "4 097 274,82",
+    "program": "Zintegrowany Program Operacyjny Rozwoju Regionalnego",
+    "coords": {
+      "lat": 52.16525515713215,
+      "long": 21.090530436634978
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/3d56f163b1954bce9b9426177c668651.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/742039/",
+    "tytul": "Kalejdoskop kultury - zachowanie dziedzictwa kulturowego warszawskiej Pragi",
+    "beneficjent": "miasto stołeczne Warszawa",
+    "wartosc": "1 015 194,34",
+    "dofinansowanie": "743 531,49",
+    "program": "Regionalny Program Operacyjny Województwa Mazowieckiego",
+    "coords": {
+      "lat": 52.250265733311366,
+      "long": 21.010490059973407
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/85132cc993af50e487c5751826454888.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747095/ ",
+    "tytul": "Restauracja i zabezpieczenie symbolu polskiego dziedzictwa kulturowego – Muzeum Pałacu Króla Jana III w Wilanowie",
+    "beneficjent": "MUZEUM PAŁACU KRÓLA JANA III W WILANOWIE",
+    "wartosc": "17 783 784,44",
+    "dofinansowanie": "10 921 285,69",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 52.16497275448581,
+      "long": 21.086694275219344
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/f380d2fcaa9c3ef2984578b8f97b11c2.jpg, https://mapadotacji.gov.pl/sb-user-files/da0cf71387a86d89ed93ba8a4e3baff2.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747094/",
+    "tytul": "Odtworzenie Ogrodów Dolnych Zamku Królewskiego w Warszawie",
+    "beneficjent": "ZAMEK KRÓLEWSKI W WARSZAWIE – MUZEUM. REZYDENCJA KRÓLÓW I RZECZYPOSPOLITEJ",
+    "wartosc": "22 796 512,24",
+    "dofinansowanie": "14 041 851,36",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 52.24804822739442,
+      "long": 21.015298911636908
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/a5d656967a7c8e2854fbabb22aac6f70.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747046/",
+    "tytul": "Wawel – dziedzictwo dla przyszłości",
+    "beneficjent": "ZAMEK KRÓLEWSKI NA WAWELU – PAŃSTWOWE ZBIORY SZTUKI",
+    "wartosc": "30 007 848,77",
+    "dofinansowanie": "21 391 590,99",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.054235466117326,
+      "long": 19.935691217006152
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/cae15cdf2420a4a4aa3572c1e7c7aa10.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747102//",
+    "tytul": "Zakup sprzętu i wyposażenia w celu realizacji II etapu Wystawy Głównej Muzeum Warszawy oraz prowadzenia działalności kulturalnej w siedzibie przy Rynku Starego Miasta w Warszawie",
+    "beneficjent": "MIASTO STOŁECZNE WARSZAWA",
+    "wartosc": "8 754 094,86",
+    "dofinansowanie": "4 640 983,25",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 52.24995935946828,
+      "long": 21.01138413306879
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/4fa07f5d320f3183d12d03a577113c2e.jpg, https://mapadotacji.gov.pl/sb-user-files/3ed4468a76fb845a2c30a30e8110cde6.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747070/",
+    "tytul": "Kompleksowa konserwacja Bazyliki Trójcy Świętej w Krakowie jako jeden z elementów rewitalizacji założenia klasztornego Ojców Dominikanów w Krakowie, związanej z osiemsetną rocznicą powstania klasztoru.",
+    "beneficjent": "KLASZTOR OJCÓW DOMINIKANÓW",
+    "wartosc": "25 400 354,12",
+    "dofinansowanie": "20 964 177,98",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.05953566730324,
+      "long": 19.9391702114662
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/001367fc80c5c1be7f655799352b78fa.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747010/",
+    "tytul": "Remont konserwatorski i modernizacja zabytkowego obiektu stanowiącego siedzibę krakowskiej Filharmonii im. Karola Szymanowskiego",
+    "beneficjent": "FILHARMONIA IM. KAROLA SZYMANOWSKIEGO W KRAKOWIE",
+    "wartosc": "28 910 263,85",
+    "dofinansowanie": "14 667 080,11",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.059061005275765,
+      "long": 19.93294462680711
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/073507da6a1d3798a6471a1fbb869f1d.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/746971/",
+    "tytul": "Krzysztofory od nowa – Muzeum Kompletne: modernizacja i remont konserwatorski Pałacu Krzysztofory wraz z przystosowaniem jego funkcji do realizacji zadań nowoczesnego, wielofunkcyjnego obiektu muzealnego",
+    "beneficjent": "MUZEUM HISTORYCZNE MIASTA KRAKOWA",
+    "wartosc": "59 918 417,04",
+    "dofinansowanie": "29 047 310,83",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.06275441337602,
+      "long": 19.93666864911971
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/d216bc1d19d4e91f59d2c64de10f3295.jpg, https://mapadotacji.gov.pl/sb-user-files/e642d332c54c9d90130a73add2ab1ba5.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747086/",
+    "tytul": "Rewaloryzacja i modernizacja zabytkowych, drewnianych budynków Muzeum Tatrzańskiego w Zakopanem dla zachowania i prezentacji unikatowego dziedzictwa kulturowego Podhala",
+    "beneficjent": "MUZEUM TATRZAŃSKIE IM. DRA TYTUSA CHAŁUBIŃSKIEGO",
+    "wartosc": "15 122 479,09",
+    "dofinansowanie": "9 878 802,58",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 49.29185681727978,
+      "long": 19.966540838396057
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/7002f6ba8c29d1466dc94f799eea2b06.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747089/",
+    "tytul": "Rewaloryzacja zespołu zabytkowych budowli inzynieryjnych dawnego lotniska Rakowice - Czyżyny wraz z adaptacja na potrzeby Muzeum Lotnictwa Polskiego w Krakowie",
+    "beneficjent": "MUZEUM LOTNICTWA POLSKIEGO W KRAKOWIE",
+    "wartosc": "19 066 362,49",
+    "dofinansowanie": "9 371 344,10",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.07758274677012,
+      "long": 19.991393026808588
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/b0796d298969832fa5c9034ea024f52c.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/774725/",
+    "tytul": "Przeszłość przyszłości – remont i wyposażenie Muzeum Książąt Czartoryskich - Muzeum Narodowe w Krakowie w celu udostępnienia unikatowej kolekcji",
+    "beneficjent": "MUZEUM NARODOWE W KRAKOWIE",
+    "wartosc": "56 372 531,50",
+    "dofinansowanie": "37 124 075,43",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.06469598758707,
+      "long": 19.940077779628925
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/a67657cc1644f694f0d2d26b656a5725.jpg, https://mapadotacji.gov.pl/sb-user-files/e9ee030605f28ce08e7d5c3a5a4e4766.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/762039/",
+    "tytul": "Budowa zintegrowanej sieci tras rowerowych w Województwie Małopolskim – Zadanie nr 1 Wiślana Trasa Rowerowa (WTR) - odcinek 2: Brzeszcze - Skawina",
+    "beneficjent": "WOJEWÓDZTWO MAŁOPOLSKIE",
+    "wartosc": "15 573 975,00",
+    "dofinansowanie": "8 743 485,89",
+    "program": "Regionalny Program Operacyjny Województwa Małopolskiego na lata 2014-2020",
+    "coords": {
+      "lat": 49.7888865143434,
+      "long": 20.25154901712734
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/7295737/1_7295737.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/760207/",
+    "tytul": "Muzeum Wycinanki Polskiej",
+    "beneficjent": "KONSTANCIŃSKI DOM KULTURY",
+    "wartosc": "5 696 405,00",
+    "dofinansowanie": "2 567 768,58",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 52.09615249433386,
+      "long": 21.13479988587621
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/d216bc1d19d4e91f59d2c64de10f3295.jpg, https://mapadotacji.gov.pl/sb-user-files/e642d332c54c9d90130a73add2ab1ba5.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747086/",
+    "tytul": "Rewaloryzacja i modernizacja zabytkowych, drewnianych budynków Muzeum Tatrzańskiego w Zakopanem dla zachowania i prezentacji unikatowego dziedzictwa kulturowego Podhala",
+    "beneficjent": "MUZEUM TATRZAŃSKIE IM. DRA TYTUSA CHAŁUBIŃSKIEGO",
+    "wartosc": "15 122 479,09",
+    "dofinansowanie": "9 878 802,58",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 49.29185681727978,
+      "long": 19.966540838396057
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/7002f6ba8c29d1466dc94f799eea2b06.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747089/",
+    "tytul": "Rewaloryzacja zespołu zabytkowych budowli inzynieryjnych dawnego lotniska Rakowice - Czyżyny wraz z adaptacja na potrzeby Muzeum Lotnictwa Polskiego w Krakowie",
+    "beneficjent": "MUZEUM LOTNICTWA POLSKIEGO W KRAKOWIE",
+    "wartosc": "19 066 362,49",
+    "dofinansowanie": "9 371 344,10",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.07758274677012,
+      "long": 19.991393026808588
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/b0796d298969832fa5c9034ea024f52c.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/774725/",
+    "tytul": "Przeszłość przyszłości – remont i wyposażenie Muzeum Książąt Czartoryskich - Muzeum Narodowe w Krakowie w celu udostępnienia unikatowej kolekcji",
+    "beneficjent": "MUZEUM NARODOWE W KRAKOWIE",
+    "wartosc": "56 372 531,50",
+    "dofinansowanie": "37 124 075,43",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.06469598758707,
+      "long": 19.940077779628925
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/a67657cc1644f694f0d2d26b656a5725.jpg, https://mapadotacji.gov.pl/sb-user-files/e9ee030605f28ce08e7d5c3a5a4e4766.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/762039/",
+    "tytul": "Budowa zintegrowanej sieci tras rowerowych w Województwie Małopolskim – Zadanie nr 1 Wiślana Trasa Rowerowa (WTR) - odcinek 2: Brzeszcze - Skawina",
+    "beneficjent": "WOJEWÓDZTWO MAŁOPOLSKIE",
+    "wartosc": "15 573 975,00",
+    "dofinansowanie": "8 743 485,89",
+    "program": "Regionalny Program Operacyjny Województwa Małopolskiego na lata 2014-2020",
+    "coords": {
+      "lat": 49.7888865143434,
+      "long": 20.25154901712734
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/240abe466bf1c83c0ed265df6b70a387.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/760207/",
+    "tytul": "Muzeum Wycinanki Polskiej",
+    "beneficjent": "KONSTANCIŃSKI DOM KULTURY",
+    "wartosc": "5 696 405,00",
+    "dofinansowanie": "2 567 768,58",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 52.09615249433386,
+      "long": 21.13479988587621
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/d216bc1d19d4e91f59d2c64de10f3295.jpg, https://mapadotacji.gov.pl/sb-user-files/e642d332c54c9d90130a73add2ab1ba5.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747086/",
+    "tytul": "Rewaloryzacja i modernizacja zabytkowych, drewnianych budynków Muzeum Tatrzańskiego w Zakopanem dla zachowania i prezentacji unikatowego dziedzictwa kulturowego Podhala",
+    "beneficjent": "MUZEUM TATRZAŃSKIE IM. DRA TYTUSA CHAŁUBIŃSKIEGO",
+    "wartosc": "15 122 479,09",
+    "dofinansowanie": "9 878 802,58",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 49.29185681727978,
+      "long": 19.966540838396057
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/7002f6ba8c29d1466dc94f799eea2b06.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747089/",
+    "tytul": "Rewaloryzacja zespołu zabytkowych budowli inzynieryjnych dawnego lotniska Rakowice - Czyżyny wraz z adaptacja na potrzeby Muzeum Lotnictwa Polskiego w Krakowie",
+    "beneficjent": "MUZEUM LOTNICTWA POLSKIEGO W KRAKOWIE",
+    "wartosc": "19 066 362,49",
+    "dofinansowanie": "9 371 344,10",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.07758274677012,
+      "long": 19.991393026808588
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/b0796d298969832fa5c9034ea024f52c.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/774725/",
+    "tytul": "Przeszłość przyszłości – remont i wyposażenie Muzeum Książąt Czartoryskich - Muzeum Narodowe w Krakowie w celu udostępnienia unikatowej kolekcji",
+    "beneficjent": "MUZEUM NARODOWE W KRAKOWIE",
+    "wartosc": "56 372 531,50",
+    "dofinansowanie": "37 124 075,43",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.06469598758707,
+      "long": 19.940077779628925
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/a67657cc1644f694f0d2d26b656a5725.jpg, https://mapadotacji.gov.pl/sb-user-files/e9ee030605f28ce08e7d5c3a5a4e4766.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/762039/",
+    "tytul": "Budowa zintegrowanej sieci tras rowerowych w Województwie Małopolskim – Zadanie nr 1 Wiślana Trasa Rowerowa (WTR) - odcinek 2: Brzeszcze - Skawina",
+    "beneficjent": "WOJEWÓDZTWO MAŁOPOLSKIE",
+    "wartosc": "15 573 975,00",
+    "dofinansowanie": "8 743 485,89",
+    "program": "Regionalny Program Operacyjny Województwa Małopolskiego na lata 2014-2020",
+    "coords": {
+      "lat": 49.7888865143434,
+      "long": 20.25154901712734
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/240abe466bf1c83c0ed265df6b70a387.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/760207/",
+    "tytul": "Muzeum Wycinanki Polskiej",
+    "beneficjent": "KONSTANCIŃSKI DOM KULTURY",
+    "wartosc": "5 696 405,00",
+    "dofinansowanie": "2 567 768,58",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 52.09615249433386,
+      "long": 21.13479988587621
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/d216bc1d19d4e91f59d2c64de10f3295.jpg, https://mapadotacji.gov.pl/sb-user-files/e642d332c54c9d90130a73add2ab1ba5.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/761971/",
+    "tytul": "Konserwacja unikatowych w skali światowej zabytków związanych z historią Krakowskiej Kapituły Metropolitalnej oraz udostępnienie ich w przestrzeni wystawienniczej w postaci interaktywnej multimedialnej ekspozycji dostosowanej do potrzeb różnorodnych grup docelowych.",
+    "beneficjent": "UNIWERSYTET PAPIESKI JANA PAWŁA II W KRAKOWIE",
+    "wartosc": "10 209 116,04",
+    "dofinansowanie": "6 934 904,91",
+    "program": "Regionalny Program Operacyjny Województwa Małopolskiego na lata 2014-2020",
+    "coords": {
+      "lat": 50.05567462738223,
+      "long": 19.936728721266466
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/bb1232f6c917f98c5fb2bde210cf1b56.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/761932/",
+    "tytul": "Modernizacja zabytkowej Willi Czerwony Dwór na cele kulturalne",
+    "beneficjent": "GMINA MIASTO ZAKOPANE",
+    "wartosc": "7 194 487,83",
+    "dofinansowanie": "3 810 417,45",
+    "program": "Regionalny Program Operacyjny Województwa Małopolskiego na lata 2014-2020",
+    "coords": {
+      "lat": 49.29803829885373,
+      "long": 19.95610632305553
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/1952d4df3be99268d54780b12dcd8216.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747086/",
+    "tytul": "Rewaloryzacja i modernizacja zabytkowych, drewnianych budynków Muzeum Tatrzańskiego w Zakopanem dla zachowania i prezentacji unikatowego dziedzictwa kulturowego Podhala",
+    "beneficjent": "MUZEUM TATRZAŃSKIE IM. DRA TYTUSA CHAŁUBIŃSKIEGO",
+    "wartosc": "15 122 479,09",
+    "dofinansowanie": "9 878 802,58",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 49.29167830269571,
+      "long": 19.966529076667268
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/a67657cc1644f694f0d2d26b656a5725.jpg, https://mapadotacji.gov.pl/sb-user-files/e9ee030605f28ce08e7d5c3a5a4e4766.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/673243/",
+    "tytul": "Europejskie Centrum Numizmatyki Polskiej w Muzeum Narodowym w Krakowie",
+    "beneficjent": "Muzeum Narodowe w Krakowie",
+    "wartosc": "23 192 893,02",
+    "dofinansowanie": "19 660 253,35",
+    "program": "Program Operacyjny Infrastruktura i Środowisko",
+    "coords": {
+      "lat": 50.07989110863603,
+      "long": 19.91390376307159
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/1149636/4_1149636.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/677494/",
+    "tytul": "Renowacja dziedzińca zewnętrznego oraz adaptacja budynku na centrum promocji i informacji na Wawelu",
+    "beneficjent": "Zamek Królewski na Wawelu - Państwowe Zbiory Sztuki",
+    "wartosc": "16 005 785,90",
+    "dofinansowanie": "10 986 986,18",
+    "program": "Program Operacyjny Infrastruktura i Środowisko",
+    "coords": {
+      "lat": 50.05418035744662,
+      "long": 19.935562470983108
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/1161420/3_1161420.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747089/",
+    "tytul": "Rewaloryzacja zespołu zabytkowych budowli inzynieryjnych dawnego lotniska Rakowice - Czyżyny wraz z adaptacja na potrzeby Muzeum Lotnictwa Polskiego w Krakowie",
+    "beneficjent": "MUZEUM LOTNICTWA POLSKIEGO W KRAKOWIE",
+    "wartosc": "19 066 362,49",
+    "dofinansowanie": "9 371 344,10",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.07743063083616,
+      "long": 19.99130435503476
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/1b641f91ca61cee985d90fc6bbe20b6e.jpg,https://mapadotacji.gov.pl/sb-user-files/cac8a70a54e8b2825888e29b2b670cda.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/785407/",
+    "tytul": "Konserwacja, rewaloryzacja i modernizacja Zespołu Pałacowo-Parkowego w Lewkowie",
+    "beneficjent": "MUZEUM W LEWKOWIE – ZESPÓŁ PAŁACOWO-PARKOWY",
+    "wartosc": "26 371 844,51",
+    "dofinansowanie": "14 449 999,98",
+    "program": "Wielkopolski Regionalny Program Operacyjny na lata 2014 – 2020",
+    "coords": {
+      "lat": 51.69492452630411,
+      "long": 17.864787921393958
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/97e7d29974cf49a0df75b0164e332950.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/761947/",
+    "tytul": "Rewaloryzacja i modernizacjazabytkowych budynków Muzeum Tatrzańskiego w Zakopanem dla zachowania i prezentacji unikatowego dziedzictwa kulturowego Podhala",
+    "beneficjent": "MUZEUM TATRZAŃSKIE IM. DRA TYTUSA CHAŁUBIŃSKIEGO W ZAKOPANEM",
+    "wartosc": "22 179 648,91",
+    "dofinansowanie": "7 675 347,94",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 49.29161689374759,
+      "long": 19.966412309751178
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/7295670/3_7295670.jpg, https://mapadotacji.gov.pl/wp-content/uploads/core_media/7295670/4_7295670.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/762039/",
+    "tytul": "Budowa zintegrowanej sieci tras rowerowych w Województwie Małopolskim – Zadanie nr 1 Wiślana Trasa Rowerowa (WTR) - odcinek 2: Brzeszcze - Skawina",
+    "beneficjent": "WOJEWÓDZTWO MAŁOPOLSKIE",
+    "wartosc": "15 573 975,00",
+    "dofinansowanie": "8 743 485,89",
+    "program": "Regionalny Program Operacyjny Województwa Małopolskiego na lata 2014-2020",
+    "coords": {
+      "lat": 49.7888865143434,
+      "long": 20.25154901712734
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/240abe466bf1c83c0ed265df6b70a387.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/673243/",
+    "tytul": "Europejskie Centrum Numizmatyki Polskiej w Muzeum Narodowym w Krakowie",
+    "beneficjent": "Muzeum Narodowe w Krakowie",
+    "wartosc": "23 192 893,02",
+    "dofinansowanie": "19 660 253,35",
+    "program": "Program Operacyjny Infrastruktura i Środowisko",
+    "coords": {
+      "lat": 50.07989110863603,
+      "long": 19.91390376307159
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/1149636/4_1149636.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/677494/",
+    "tytul": "Renowacja dziedzińca zewnętrznego oraz adaptacja budynku na centrum promocji i informacji na Wawelu",
+    "beneficjent": "Zamek Królewski na Wawelu - Państwowe Zbiory Sztuki",
+    "wartosc": "16 005 785,90",
+    "dofinansowanie": "10 986 986,18",
+    "program": "Program Operacyjny Infrastruktura i Środowisko",
+    "coords": {
+      "lat": 50.05418035744662,
+      "long": 19.935562470983108
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/1161420/3_1161420.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747089/",
+    "tytul": "Rewaloryzacja zespołu zabytkowych budowli inzynieryjnych dawnego lotniska Rakowice - Czyżyny wraz z adaptacja na potrzeby Muzeum Lotnictwa Polskiego w Krakowie",
+    "beneficjent": "MUZEUM LOTNICTWA POLSKIEGO W KRAKOWIE",
+    "wartosc": "19 066 362,49",
+    "dofinansowanie": "9 371 344,10",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.07743063083616,
+      "long": 19.99130435503476
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/1b641f91ca61cee985d90fc6bbe20b6e.jpg,https://mapadotacji.gov.pl/sb-user-files/cac8a70a54e8b2825888e29b2b670cda.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/785407/",
+    "tytul": "Konserwacja, rewaloryzacja i modernizacja Zespołu Pałacowo-Parkowego w Lewkowie",
+    "beneficjent": "MUZEUM W LEWKOWIE – ZESPÓŁ PAŁACOWO-PARKOWY",
+    "wartosc": "26 371 844,51",
+    "dofinansowanie": "14 449 999,98",
+    "program": "Wielkopolski Regionalny Program Operacyjny na lata 2014 – 2020",
+    "coords": {
+      "lat": 51.69492452630411,
+      "long": 17.864787921393958
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/97e7d29974cf49a0df75b0164e332950.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/761947/",
+    "tytul": "Rewaloryzacja i modernizacjazabytkowych budynków Muzeum Tatrzańskiego w Zakopanem dla zachowania i prezentacji unikatowego dziedzictwa kulturowego Podhala",
+    "beneficjent": "MUZEUM TATRZAŃSKIE IM. DRA TYTUSA CHAŁUBIŃSKIEGO W ZAKOPANEM",
+    "wartosc": "56 372 531,50",
+    "dofinansowanie": "37 124 075,43",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.06469598758707,
+      "long": 19.940077779628925
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/a67657cc1644f694f0d2d26b656a5725.jpg, https://mapadotacji.gov.pl/sb-user-files/e9ee030605f28ce08e7d5c3a5a4e4766.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/762039/",
+    "tytul": "Budowa zintegrowanej sieci tras rowerowych w Województwie Małopolskim – Zadanie nr 1 Wiślana Trasa Rowerowa (WTR) - odcinek 2: Brzeszcze - Skawina",
+    "beneficjent": "WOJEWÓDZTWO MAŁOPOLSKIE",
+    "wartosc": "15 573 975,00",
+    "dofinansowanie": "8 743 485,89",
+    "program": "Regionalny Program Operacyjny Województwa Małopolskiego na lata 2014-2020",
+    "coords": {
+      "lat": 49.7888865143434,
+      "long": 20.25154901712734
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/240abe466bf1c83c0ed265df6b70a387.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/673243/",
+    "tytul": "Europejskie Centrum Numizmatyki Polskiej w Muzeum Narodowym w Krakowie",
+    "beneficjent": "Muzeum Narodowe w Krakowie",
+    "wartosc": "23 192 893,02",
+    "dofinansowanie": "19 660 253,35",
+    "program": "Program Operacyjny Infrastruktura i Środowisko",
+    "coords": {
+      "lat": 50.07989110863603,
+      "long": 19.91390376307159
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/1149636/4_1149636.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/677494/",
+    "tytul": "Renowacja dziedzińca zewnętrznego oraz adaptacja budynku na centrum promocji i informacji na Wawelu",
+    "beneficjent": "Zamek Królewski na Wawelu - Państwowe Zbiory Sztuki",
+    "wartosc": "16 005 785,90",
+    "dofinansowanie": "10 986 986,18",
+    "program": "Program Operacyjny Infrastruktura i Środowisko",
+    "coords": {
+      "lat": 50.05418035744662,
+      "long": 19.935562470983108
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/1161420/3_1161420.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747089/",
+    "tytul": "Rewaloryzacja zespołu zabytkowych budowli inzynieryjnych dawnego lotniska Rakowice - Czyżyny wraz z adaptacja na potrzeby Muzeum Lotnictwa Polskiego w Krakowie",
+    "beneficjent": "MUZEUM LOTNICTWA POLSKIEGO W KRAKOWIE",
+    "wartosc": "19 066 362,49",
+    "dofinansowanie": "9 371 344,10",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.07743063083616,
+      "long": 19.99130435503476
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/1b641f91ca61cee985d90fc6bbe20b6e.jpg,https://mapadotacji.gov.pl/sb-user-files/cac8a70a54e8b2825888e29b2b670cda.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/785407/",
+    "tytul": "Konserwacja, rewaloryzacja i modernizacja Zespołu Pałacowo-Parkowego w Lewkowie",
+    "beneficjent": "MUZEUM W LEWKOWIE – ZESPÓŁ PAŁACOWO-PARKOWY",
+    "wartosc": "26 371 844,51",
+    "dofinansowanie": "14 449 999,98",
+    "program": "Wielkopolski Regionalny Program Operacyjny na lata 2014 – 2020",
+    "coords": {
+      "lat": 51.69492452630411,
+      "long": 17.864787921393958
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/97e7d29974cf49a0df75b0164e332950.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/761947/",
+    "tytul": "Rewaloryzacja i modernizacjazabytkowych budynków Muzeum Tatrzańskiego w Zakopanem dla zachowania i prezentacji unikatowego dziedzictwa kulturowego Podhala",
+    "beneficjent": "MUZEUM TATRZAŃSKIE IM. DRA TYTUSA CHAŁUBIŃSKIEGO W ZAKOPANEM",
+    "wartosc": "56 372 531,50",
+    "dofinansowanie": "37 124 075,43",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.06469598758707,
+      "long": 19.940077779628925
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/a67657cc1644f694f0d2d26b656a5725.jpg, https://mapadotacji.gov.pl/sb-user-files/e9ee030605f28ce08e7d5c3a5a4e4766.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/762039/",
+    "tytul": "Budowa zintegrowanej sieci tras rowerowych w Województwie Małopolskim – Zadanie nr 1 Wiślana Trasa Rowerowa (WTR) - odcinek 2: Brzeszcze - Skawina",
+    "beneficjent": "WOJEWÓDZTWO MAŁOPOLSKIE",
+    "wartosc": "15 573 975,00",
+    "dofinansowanie": "8 743 485,89",
+    "program": "Regionalny Program Operacyjny Województwa Małopolskiego na lata 2014-2020",
+    "coords": {
+      "lat": 49.7888865143434,
+      "long": 20.25154901712734
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/240abe466bf1c83c0ed265df6b70a387.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/673243/",
+    "tytul": "Europejskie Centrum Numizmatyki Polskiej w Muzeum Narodowym w Krakowie",
+    "beneficjent": "Muzeum Narodowe w Krakowie",
+    "wartosc": "23 192 893,02",
+    "dofinansowanie": "19 660 253,35",
+    "program": "Program Operacyjny Infrastruktura i Środowisko",
+    "coords": {
+      "lat": 50.07989110863603,
+      "long": 19.91390376307159
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/1149636/4_1149636.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/677494/",
+    "tytul": "Renowacja dziedzińca zewnętrznego oraz adaptacja budynku na centrum promocji i informacji na Wawelu",
+    "beneficjent": "Zamek Królewski na Wawelu - Państwowe Zbiory Sztuki",
+    "wartosc": "16 005 785,90",
+    "dofinansowanie": "10 986 986,18",
+    "program": "Program Operacyjny Infrastruktura i Środowisko",
+    "coords": {
+      "lat": 50.05418035744662,
+      "long": 19.935562470983108
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/1161420/3_1161420.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747089/",
+    "tytul": "Rewaloryzacja zespołu zabytkowych budowli inzynieryjnych dawnego lotniska Rakowice - Czyżyny wraz z adaptacja na potrzeby Muzeum Lotnictwa Polskiego w Krakowie",
+    "beneficjent": "MUZEUM LOTNICTWA POLSKIEGO W KRAKOWIE",
+    "wartosc": "19 066 362,49",
+    "dofinansowanie": "9 371 344,10",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.07743063083616,
+      "long": 19.99130435503476
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/1b641f91ca61cee985d90fc6bbe20b6e.jpg,https://mapadotacji.gov.pl/sb-user-files/cac8a70a54e8b2825888e29b2b670cda.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/785407/",
+    "tytul": "Konserwacja, rewaloryzacja i modernizacja Zespołu Pałacowo-Parkowego w Lewkowie",
+    "beneficjent": "MUZEUM W LEWKOWIE – ZESPÓŁ PAŁACOWO-PARKOWY",
+    "wartosc": "26 371 844,51",
+    "dofinansowanie": "14 449 999,98",
+    "program": "Wielkopolski Regionalny Program Operacyjny na lata 2014 – 2020",
+    "coords": {
+      "lat": 51.69492452630411,
+      "long": 17.864787921393958
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/97e7d29974cf49a0df75b0164e332950.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/761947/",
+    "tytul": "Rewaloryzacja i modernizacjazabytkowych budynków Muzeum Tatrzańskiego w Zakopanem dla zachowania i prezentacji unikatowego dziedzictwa kulturowego Podhala",
+    "beneficjent": "MUZEUM TATRZAŃSKIE IM. DRA TYTUSA CHAŁUBIŃSKIEGO W ZAKOPANEM",
+    "wartosc": "56 372 531,50",
+    "dofinansowanie": "37 124 075,43",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.06469598758707,
+      "long": 19.940077779628925
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/a67657cc1644f694f0d2d26b656a5725.jpg, https://mapadotacji.gov.pl/sb-user-files/e9ee030605f28ce08e7d5c3a5a4e4766.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/762039/",
+    "tytul": "Budowa zintegrowanej sieci tras rowerowych w Województwie Małopolskim – Zadanie nr 1 Wiślana Trasa Rowerowa (WTR) - odcinek 2: Brzeszcze - Skawina",
+    "beneficjent": "WOJEWÓDZTWO MAŁOPOLSKIE",
+    "wartosc": "15 573 975,00",
+    "dofinansowanie": "8 743 485,89",
+    "program": "Regionalny Program Operacyjny Województwa Małopolskiego na lata 2014-2020",
+    "coords": {
+      "lat": 49.7888865143434,
+      "long": 20.25154901712734
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/240abe466bf1c83c0ed265df6b70a387.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/673243/",
+    "tytul": "Europejskie Centrum Numizmatyki Polskiej w Muzeum Narodowym w Krakowie",
+    "beneficjent": "Muzeum Narodowe w Krakowie",
+    "wartosc": "23 192 893,02",
+    "dofinansowanie": "19 660 253,35",
+    "program": "Program Operacyjny Infrastruktura i Środowisko",
+    "coords": {
+      "lat": 50.07989110863603,
+      "long": 19.91390376307159
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/1149636/4_1149636.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/677494/",
+    "tytul": "Renowacja dziedzińca zewnętrznego oraz adaptacja budynku na centrum promocji i informacji na Wawelu",
+    "beneficjent": "Zamek Królewski na Wawelu - Państwowe Zbiory Sztuki",
+    "wartosc": "16 005 785,90",
+    "dofinansowanie": "10 986 986,18",
+    "program": "Program Operacyjny Infrastruktura i Środowisko",
+    "coords": {
+      "lat": 50.05418035744662,
+      "long": 19.935562470983108
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/1161420/3_1161420.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747089/",
+    "tytul": "Rewaloryzacja zespołu zabytkowych budowli inzynieryjnych dawnego lotniska Rakowice - Czyżyny wraz z adaptacja na potrzeby Muzeum Lotnictwa Polskiego w Krakowie",
+    "beneficjent": "MUZEUM LOTNICTWA POLSKIEGO W KRAKOWIE",
+    "wartosc": "19 066 362,49",
+    "dofinansowanie": "9 371 344,10",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.07743063083616,
+      "long": 19.99130435503476
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/1b641f91ca61cee985d90fc6bbe20b6e.jpg,https://mapadotacji.gov.pl/sb-user-files/cac8a70a54e8b2825888e29b2b670cda.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/785407/",
+    "tytul": "Konserwacja, rewaloryzacja i modernizacja Zespołu Pałacowo-Parkowego w Lewkowie",
+    "beneficjent": "MUZEUM W LEWKOWIE – ZESPÓŁ PAŁACOWO-PARKOWY",
+    "wartosc": "26 371 844,51",
+    "dofinansowanie": "14 449 999,98",
+    "program": "Wielkopolski Regionalny Program Operacyjny na lata 2014 – 2020",
+    "coords": {
+      "lat": 51.69492452630411,
+      "long": 17.864787921393958
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/97e7d29974cf49a0df75b0164e332950.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/761947/",
+    "tytul": "Rewaloryzacja i modernizacjazabytkowych budynków Muzeum Tatrzańskiego w Zakopanem dla zachowania i prezentacji unikatowego dziedzictwa kulturowego Podhala",
+    "beneficjent": "MUZEUM TATRZAŃSKIE IM. DRA TYTUSA CHAŁUBIŃSKIEGO W ZAKOPANEM",
+    "wartosc": "56 372 531,50",
+    "dofinansowanie": "37 124 075,43",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.06469598758707,
+      "long": 19.940077779628925
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/a67657cc1644f694f0d2d26b656a5725.jpg, https://mapadotacji.gov.pl/sb-user-files/e9ee030605f28ce08e7d5c3a5a4e4766.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/762039/",
+    "tytul": "Budowa zintegrowanej sieci tras rowerowych w Województwie Małopolskim – Zadanie nr 1 Wiślana Trasa Rowerowa (WTR) - odcinek 2: Brzeszcze - Skawina",
+    "beneficjent": "WOJEWÓDZTWO MAŁOPOLSKIE",
+    "wartosc": "15 573 975,00",
+    "dofinansowanie": "8 743 485,89",
+    "program": "Regionalny Program Operacyjny Województwa Małopolskiego na lata 2014-2020",
+    "coords": {
+      "lat": 49.7888865143434,
+      "long": 20.25154901712734
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/240abe466bf1c83c0ed265df6b70a387.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/673243/",
+    "tytul": "Europejskie Centrum Numizmatyki Polskiej w Muzeum Narodowym w Krakowie",
+    "beneficjent": "Muzeum Narodowe w Krakowie",
+    "wartosc": "23 192 893,02",
+    "dofinansowanie": "19 660 253,35",
+    "program": "Program Operacyjny Infrastruktura i Środowisko",
+    "coords": {
+      "lat": 50.07989110863603,
+      "long": 19.91390376307159
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/1149636/4_1149636.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/677494/",
+    "tytul": "Renowacja dziedzińca zewnętrznego oraz adaptacja budynku na centrum promocji i informacji na Wawelu",
+    "beneficjent": "Zamek Królewski na Wawelu - Państwowe Zbiory Sztuki",
+    "wartosc": "16 005 785,90",
+    "dofinansowanie": "10 986 986,18",
+    "program": "Program Operacyjny Infrastruktura i Środowisko",
+    "coords": {
+      "lat": 50.05418035744662,
+      "long": 19.935562470983108
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/1161420/3_1161420.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747089/",
+    "tytul": "Rewaloryzacja zespołu zabytkowych budowli inzynieryjnych dawnego lotniska Rakowice - Czyżyny wraz z adaptacja na potrzeby Muzeum Lotnictwa Polskiego w Krakowie",
+    "beneficjent": "MUZEUM LOTNICTWA POLSKIEGO W KRAKOWIE",
+    "wartosc": "19 066 362,49",
+    "dofinansowanie": "9 371 344,10",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.07743063083616,
+      "long": 19.99130435503476
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/1b641f91ca61cee985d90fc6bbe20b6e.jpg,https://mapadotacji.gov.pl/sb-user-files/cac8a70a54e8b2825888e29b2b670cda.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/785407/",
+    "tytul": "Konserwacja, rewaloryzacja i modernizacja Zespołu Pałacowo-Parkowego w Lewkowie",
+    "beneficjent": "MUZEUM W LEWKOWIE – ZESPÓŁ PAŁACOWO-PARKOWY",
+    "wartosc": "26 371 844,51",
+    "dofinansowanie": "14 449 999,98",
+    "program": "Wielkopolski Regionalny Program Operacyjny na lata 2014 – 2020",
+    "coords": {
+      "lat": 51.69492452630411,
+      "long": 17.864787921393958
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/97e7d29974cf49a0df75b0164e332950.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747061/",
+    "tytul": "Szlakiem zabytkowych kościołów obszaru Diecezji Kaliskiej - rewaloryzacja i konserwacja zabytków drewnianych celem ochrony dziedzictwa kulturowego oraz wzrostu atrakcyjności regionu Etap II",
+    "beneficjent": "DIECEZJA KALISKA",
+    "wartosc": "12 479 798,90",
+    "dofinansowanie": "10 598 847,42",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 51.75461980162546,
+      "long": 18.070742557621003
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/2ca4c9ee378f39574772ab761160638b.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/761934/",
+    "tytul": "Utworzenie Muzeum Kościuszkowskiego z wystawą stałą pt. \"Kościuszko - bohater wciąż potrzebny\" w kompleksie Bastionu V w Forcie nr 2 \"Kościuszko\" oraz trasy edukacyjnej na Kopcu Kościuszki w Krakowie z przystosowaniem dla osób niepełnosprawnych.",
+    "beneficjent": "KOMITET KOPCA KOŚCIUSZKI W KRAKOWIE",
+    "wartosc": "13 580 174,36",
+    "dofinansowanie": "6 270 181,63",
+    "program": "Regionalny Program Operacyjny Województwa Małopolskiego na lata 2014-2020",
+    "coords": {
+      "lat": 50.05488128705502,
+      "long": 19.893106768039814
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/03dfbfecfc4711d9c94b11dba364e8d6.jpg, https://mapadotacji.gov.pl/sb-user-files/c180d5b5f61af606a8090e949dfb5ce8.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/761990/",
+    "tytul": "Wzmocnienie oferty Muzeum Sztuki Współczesnej w Krakowie MOCAK poprzez zakup nowoczesnego sprzętu multimedialnego",
+    "wartosc": "423 524,86",
+    "dofinansowanie": "172 798,14",
+    "program": "Wielkopolski Regionalny Program Operacyjny na lata 2014 – 2020",
+    "coords": {
+      "lat": 50.04761804567952,
+      "long": 19.96152217506252
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/62243407f00fb41b9c297414513df281.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/772463/",
+    "tytul": "Adaptacja budynków położonych w Poznaniu przy ul. Taczaka (w tym renowacja kamienicy) na cele kulturalne Polskiego Teatru Tańca wraz z wyposażeniem",
+    "beneficjent": "POLSKI TEATR TAŃCA",
+    "wartosc": "22 063 776,70",
+    "dofinansowanie": "8 024 981,74",
+    "program": "Wielkopolski Regionalny Program Operacyjny na lata 2014 – 2020",
+    "coords": {
+      "lat": 52.40549093472362,
+      "long": 16.922079023296863
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/fed3658e0071fcaf98f5860cb2018896.jpeg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/761944/",
+    "tytul": "Rewaloryzacja, konserwacja i rozszerzenie publicznych funkcji zabytkowych obiektów Muzeum Okręgowego w Tarnowie",
+    "beneficjent": "MUZEUM OKRĘGOWE W TARNOWIE",
+    "wartosc": "12 697 556,55",
+    "dofinansowanie": "5 269 242,24",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.01244239321277,
+      "long": 20.987664539061008
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/93d06d88a6560bf856b0b6c29d2a589c.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/772461/",
+    "tytul": "Utworzenie nowej siedziby Domu Kultury na terenie dworca PKP Pleszew Miasto",
+    "beneficjent": "MIASTO I GMINA PLESZEW",
+    "wartosc": "7 914 719,20",
+    "dofinansowanie": "4 343 037,53",
+    "program": "Wielkopolski Regionalny Program Operacyjny na lata 2014 – 2020",
+    "coords": {
+      "lat": 51.91551070019546,
+      "long": 17.7804928903419
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/5a2b6169fbc1d3775db72450e42bb29f.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/761928/",
+    "tytul": "Muzeum Podgórza - oddział Muzeum Historycznego Miasta Krakowa - adaptacja nieruchomości przy ul. Powstańców Wielkopolskich 1",
+    "beneficjent": "GMINA MIEJSKA KRAKÓW",
+    "wartosc": "7 786 273,20",
+    "dofinansowanie": "3 965 074,66",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.042440774097514,
+      "long": 19.96110648004204
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/a67657cc1644f694f0d2d26b656a5725.jpg, https://mapadotacji.gov.pl/sb-user-files/e9ee030605f28ce08e7d5c3a5a4e4766.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/772504/",
+    "tytul": "Adaptacja pomieszczeń zabytkowego budynku ratusza miejskiego na ekspozycję poświęconą dziedzictwu historyczno-kulturowemu Kalisza i regionu",
+    "beneficjent": "MIASTO KALISZ",
+    "wartosc": "7 367 732,40",
+    "dofinansowanie": "2 616 590,18",
+    "program": "Wielkopolski Regionalny Program Operacyjny na lata 2014 – 2020",
+    "coords": {
+      "lat": 51.76373006832058,
+      "long": 18.085290526961096
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/f03dd4852d81c7b9c2946e5d04c0eda0.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/790728/",
+    "tytul": "Rozbudowa i przebudowa Centrum Kultury i Biblioteki im. Powstańców Wielkopolskich w Opalenicy",
+    "beneficjent": "GMINA OPALENICA",
+    "wartosc": "3 993 422,61",
+    "dofinansowanie": "1 788 961,54",
+    "program": "Wielkopolski Regionalny Program Operacyjny na lata 2014 – 2020",
+    "coords": {
+      "lat": 52.313158417030024,
+      "long": 16.40806747934429
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/a3b1756dc2f4f69ea0cf9ca4c20d0607.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/673243/",
+    "tytul": "Europejskie Centrum Numizmatyki Polskiej w Muzeum Narodowym w Krakowie",
+    "beneficjent": "Muzeum Narodowe w Krakowie",
+    "wartosc": "23 192 893,02",
+    "dofinansowanie": "19 660 253,35",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.06094654881669,
+      "long": 19.938367008988497
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/a67657cc1644f694f0d2d26b656a5725.jpg, https://mapadotacji.gov.pl/sb-user-files/e9ee030605f28ce08e7d5c3a5a4e4766.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/772468/",
+    "tytul": "Rozbudowa Skansenu Olenderskiego w Prusimiu poprzez translokację, renowację i adaptację na cele kulturalne zabytkowego wiatraka paltraka",
+    "beneficjent": "FUNDACJA OLANDIA",
+    "wartosc": "632 868,00",
+    "dofinansowanie": "437 401,49",
+    "program": "Wielkopolski Regionalny Program Operacyjny na lata 2014 – 2020",
+    "coords": {
+      "lat": 52.577469268987045,
+      "long": 16.00479230796948
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/4a3549351e2fabc4904aaf73c3fd8819.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/772461/",
+    "tytul": "Utworzenie nowej siedziby Domu Kultury na terenie dworca PKP Pleszew Miasto",
+    "beneficjent": "MIASTO I GMINA PLESZEW",
+    "wartosc": "7 914 719,20",
+    "dofinansowanie": "4 343 037,53",
+    "program": "Wielkopolski Regionalny Program Operacyjny na lata 2014 – 2020",
+    "coords": {
+      "lat": 51.91551070019546,
+      "long": 17.7804928903419
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/5a2b6169fbc1d3775db72450e42bb29f.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/761928/",
+    "tytul": "Muzeum Podgórza - oddział Muzeum Historycznego Miasta Krakowa - adaptacja nieruchomości przy ul. Powstańców Wielkopolskich 1",
+    "beneficjent": "GMINA MIEJSKA KRAKÓW",
+    "wartosc": "7 786 273,20",
+    "dofinansowanie": "3 965 074,66",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 50.042440774097514,
+      "long": 19.96110648004204
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/a67657cc1644f694f0d2d26b656a5725.jpg, https://mapadotacji.gov.pl/sb-user-files/e9ee030605f28ce08e7d5c3a5a4e4766.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/772450/",
+    "tytul": "Muzeum Enigmy w Poznaniu",
+    "beneficjent": "MIASTO POZNAŃ",
+    "wartosc": "22 477 674,75",
+    "dofinansowanie": "10 369 995,38",
+    "program": "Wielkopolski Regionalny Program Operacyjny na lata 2014 – 2020",
+    "coords": {
+      "lat": 52.40759451808623,
+      "long": 16.919783515923463
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/50b9d56ac805c9f2cdcdf35bdb1034a8.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/772471/",
+    "tytul": "Małe kino społecznościowe szansą na rozwój zasobów kultury w gminach członkowskich Stowarzyszenia Gmin i Powiatów Wielkopolski",
+    "beneficjent": "STOWARZYSZENIE GMIN I POWIATÓW WIELKOPOLSKI",
+    "wartosc": "623 450,07",
+    "dofinansowanie": "394 804,72",
+    "program": "Wielkopolski Regionalny Program Operacyjny na lata 2014 – 2020",
+    "coords": {
+      "lat": 52.40475305377233,
+      "long": 16.92707552514359
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/7306017/4_7306017.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/772497//",
+    "tytul": "Modernizacja Muzeum Śremskiego poprzez rozbudowę budynku muzeum o pawilon wystawowy i salę widowiskową oraz utworzenie nowoczesnej multimedialnej interaktywnej ekspozycji stałej",
+    "wartosc": "8 315 779,86",
+    "dofinansowanie": "6 643 909,11",
+    "program": "Wielkopolski Regionalny Program Operacyjny na lata 2014 – 2020",
+    "coords": {
+      "lat": 52.08608799957581,
+      "long": 17.023738582788813
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/5b28bfde0c4665308f85d35c3f75abb9.jpeg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/746975/",
+    "tytul": "Przebudowa i rozbudowa Państwowej Szkoły Muzycznej I stopnia im. W. Kilara w Pleszewie o salę koncertową z zapleczem",
+    "beneficjent": "PAŃSTWOWA SZKOŁA MUZYCZNA I ST. IM. WOJCIE-CHA KILARA W PLESZEWIE",
+    "wartosc": "10 096 480,37",
+    "dofinansowanie": "8 423 871,33",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": 51.88714200848114,
+      "long": 17.78589206872986
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/68c54d6871a8de3a1528cf7ef33d9b12.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/785407/",
+    "tytul": "Konserwacja, rewaloryzacja i modernizacja Zespołu Pałacowo-Parkowego w Lewkowie",
+    "beneficjent": "MUZEUM W LEWKOWIE – ZESPÓŁ PAŁACOWO-PARKOWY",
+    "wartosc": "26 371 844,51",
+    "dofinansowanie": "14 449 999,98",
+    "program": "Wielkopolski Regionalny Program Operacyjny na lata 2014 – 2020",
+    "coords": {
+      "lat": 51.69496442780647,
+      "long": 17.864691361876673
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/97e7d29974cf49a0df75b0164e332950.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/1234438/",
+    "tytul": "Modernizacja i poprawa warunków funkcjonowania Muzeum Stanisława Staszica w Pile",
+    "beneficjent": "MUZEUM STANISŁAWA STASZICA W PILE",
+    "wartosc": "1 663 490,00",
+    "dofinansowanie": "1 326 586,50",
+    "program": "Wielkopolski Regionalny Program Operacyjny na lata 2014 – 2020",
+    "coords": {
+      "lat": 53.15122161846096,
+      "long": 16.74487323510311
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/9f87b93285e49e16ae1cca1a0f662baa.jpeg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/687444/",
+    "tytul": "Rezerwaty Archeologiczne dotyczące Początków Państwa Polskiego – Ostrów Lednicki, Giecz, Grzybowo",
+    "beneficjent": "Muzeum Pierwszych Piastów na Lednicy",
+    "wartosc": "11 761 078,71",
+    "dofinansowanie": "6 162 668,16 ",
+    "program": "Regionalny Program Operacyjny Województwa Wielkopolskiego na lata 2007 - 2013",
+    "coords": {
+      "lat": 52.52828217865884,
+      "long": 17.38451545768223
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/1186517/1_1186517.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/555963/",
+    "tytul": "Rekonstrukcja zabytkowego kościółka z Lasek Wałeckich",
+    "beneficjent": "Muzeum Okręgowe im. Stanisława Staszica w Pile",
+    "wartosc": "501 709,00",
+    "dofinansowanie": "330 432,00",
+    "program": "Restrukturyzacja i modernizacja sektora żywnościowego oraz rozwój obszarów wiejskich",
+    "coords": {
+      "lat": 53.15180831714784,
+      "long": 16.743826542390888
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/wp-content/uploads/core_media/122407/1_122407.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/772500/",
+    "tytul": "Rewaloryzacja wnętrz dawnego kompleksu cysterskiego w Owińskach.",
+    "beneficjent": "POWIAT POZNAŃSKI",
+    "wartosc": "13 367 714,38",
+    "dofinansowanie": "8 664 808,52",
+    "program": "Wielkopolski Regionalny Program Operacyjny na lata 2014 – 2020",
+    "coords": {
+      "lat": 52.51142829458683,
+      "long": 16.97299958916124
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/7d449aa4015fc03d42d20c7ee8109322.jpg"
+    ]
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/772468/",
+    "tytul": "Rozbudowa Skansenu Olenderskiego w Prusimiu poprzez translokację, renowację i adaptację na cele kulturalne zabytkowego wiatraka paltraka",
+    "beneficjent": "FUNDACJA OLANDIA",
+    "wartosc": "632 868,00",
+    "dofinansowanie": "437 401,49 ",
+    "program": "Wielkopolski Regionalny Program Operacyjny na lata 2014 – 2020",
+    "coords": {
+      "lat": 52.57745622941153,
+      "long": 16.0049961558393
+    },
+    "fotos": [
+      "https://mapadotacji.gov.pl/sb-user-files/4a3549351e2fabc4904aaf73c3fd8819.jpg"
+    ]
   }
 ]

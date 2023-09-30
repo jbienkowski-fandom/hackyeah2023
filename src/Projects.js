@@ -27,10 +27,10 @@ function Projects() {
         setProjects(randomProjects(projects));
     }, []);
 
-    const onVote = (winningProject, isRight) => {
-        const losingProject = _projects.find(project => project !== winningProject);
+    const onVote = (projectId, isRight) => {
+        const winningProject = _projects.find(project => project.id === projectId);
+        const losingProject = _projects.find(project => project.id !== winningProject.id);
         vote(winningProject, losingProject);
-        console.log('XXX', isRight);
         setProjects(randomProjects(projects, winningProject, isRight));
     };
 
@@ -38,7 +38,7 @@ function Projects() {
         <div className="container">
             <div className="columns is-1 is-mobile">
                 {_projects.map((project, idx) => <div key={idx} className="column is-half">
-                    <div className="card" onClick={() => onVote(project, idx !== 0)}>
+                    <div className="card" onClick={() => onVote(project.id, idx !== 0)}>
                         <div className="card-image">
                             <figure className="image is-1by1">
                                 <img src={project.fotos[0]} alt="foto"/>

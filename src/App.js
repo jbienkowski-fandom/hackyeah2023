@@ -13,7 +13,7 @@ function App() {
         <Router>
             <Switch>
                 <Route path="/vote"><Vote/></Route>
-                <Route path="/"><Start /></Route>
+                <Route path="/"><Start/></Route>
             </Switch>
         </Router>
     );

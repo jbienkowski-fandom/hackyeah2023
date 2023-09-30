@@ -3,26 +3,42 @@
     "url": "https://mapadotacji.gov.pl/projekty/747096/",
     "tytul": "Rearanżacja stałej ekspozycji Galerii Sztuki Starożytnej Muzeum Narodowego w Warszawie",
     "beneficjent": "MUZEUM NARODOWE W WARSZAWIE",
-    "wartosc": "19153240.47",
-    "dofinansowanie": "9777078.62",
+    "wartosc": "19 153 240,47",
+    "dofinansowanie": "9 777 078,62",
     "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
     "coords": {
       "lat": 52.23210346936886,
       "long": 21.024108900043892
     },
-    "fotos": ["https://mapadotacji.gov.pl/sb-user-files/240abe466bf1c83c0ed265df6b70a387.jpg"]
+    "fotos": ["https://mapadotacji.gov.pl/sb-user-files/240abe466bf1c83c0ed265df6b70a387.jpg"],
+    "score": 1500
   },
   {
     "url": "https://mapadotacji.gov.pl/projekty/747051/",
     "tytul": "Akademia Otwarta - przebudowa i renowacja Pałacu Czapskich Akademii Sztuk Pięknych w Warszawie",
     "beneficjent": "AKADEMIA SZTUK PIĘKNYCH W WARSZAWIE",
-    "wartosc": "26430919.07",
-    "dofinansowanie": "17288530.83",
+    "wartosc": "26 430 919,07",
+    "dofinansowanie": "17 288 530,83",
     "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
     "coords": {
       "lat": 52.23956864898585,
       "long": 21.015089182264123
     },
-    "fotos": ["https://mapadotacji.gov.pl/sb-user-files/abbc5761636968fade5623a1971addc9.jpg"]
+    "fotos": ["https://mapadotacji.gov.pl/sb-user-files/abbc5761636968fade5623a1971addc9.jpg"],
+    "score": 1500
+  },
+  {
+    "url": "https://mapadotacji.gov.pl/projekty/747096/",
+    "tytul": "Modernizacja czytelń i przestrzeni publicznych Biblioteki Narodowej",
+    "beneficjent": "BIBLIOTEKA NARODOWA",
+    "wartosc": "41 549 462,95",
+    "dofinansowanie": "22 226 539,18",
+    "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
+    "coords": {
+      "lat": "52.25034543609794",
+      "long": "21.0046598445934"
+    },
+    "fotos": ["https://mapadotacji.gov.pl/sb-user-files/240abe466bf1c83c0ed265df6b70a387.jpg"],
+    "score": 1500
   }
 ]

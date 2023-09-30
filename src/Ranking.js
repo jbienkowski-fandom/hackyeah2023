@@ -1,7 +1,10 @@
 import React from "react";
-import projects from "./projects.json";
+import {useStore} from "./store";
 
 function Ranking() {
+    const projects = useStore(state => state.projects);
+    const sortedProjects = projects.sort((a, b) => b.score - a.score);
+
     return (
         <div className="table-container">
             <table className="table">
@@ -14,12 +17,12 @@ function Ranking() {
                 </tr>
                 </thead>
                 <tbody>
-                {projects.map((project, idx) => (
+                {sortedProjects.map((project, idx) => (
                     <tr key={idx}>
                         <th>{idx + 1}</th>
                         <td>{project.tytul}</td>
                         <td>{project.beneficjent}</td>
-                        <td>{Math.round(Math.random() * 1500)}</td>
+                        <td>{project.score}</td>
                     </tr>
                 ))}
                 </tbody>

@@ -6,7 +6,10 @@
     "wartosc": "19153240.47",
     "dofinansowanie": "9777078.62",
     "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
-    "coords": "52.23210346936886, 21.024108900043892",
+    "coords": {
+      "lat": 52.23210346936886,
+      "long": 21.024108900043892
+    },
     "fotos": ["https://mapadotacji.gov.pl/sb-user-files/240abe466bf1c83c0ed265df6b70a387.jpg"]
   },
   {
@@ -16,7 +19,10 @@
     "wartosc": "26430919.07",
     "dofinansowanie": "17288530.83",
     "program": "Program Operacyjny Infrastruktura i Środowisko 2014-2020",
-    "coords": "52.23210346936886, 21.024108900043892",
+    "coords": {
+      "lat": 52.23956864898585,
+      "long": 21.015089182264123
+    },
     "fotos": ["https://mapadotacji.gov.pl/sb-user-files/abbc5761636968fade5623a1971addc9.jpg"]
   }
 ]

@@ -10,7 +10,7 @@ export function randomProjects(_projects, initialProject = null, isRight = false
     const p = initialProject === null ? [] : [initialProject];
     while (p.length < 2) {
         const project = randomProject(_projects);
-        if (!p.find(p => p.tytul === project.tytul)) {
+        if (!p.find(p => p.id === project.id)) {
             p.push(project);
         }
     }

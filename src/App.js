@@ -5,14 +5,14 @@ import {
     Route,
 } from 'react-router-dom';
 import './App.css';
-import Projects from "./Projects";
 import Start from "./Start";
+import Vote from "./Vote";
 
 function App() {
     return (
         <Router>
             <Switch>
-                <Route path="/vote"><Projects/></Route>
+                <Route path="/vote"><Vote/></Route>
                 <Route path="/"><Start /></Route>
             </Switch>
         </Router>

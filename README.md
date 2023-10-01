@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d1c30b7b-8318-46fb-8435-9e3650f922a1/deploy-status)](https://app.netlify.com/sites/teamcities-hackyeah2023/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

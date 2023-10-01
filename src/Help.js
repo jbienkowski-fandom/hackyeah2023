@@ -11,7 +11,7 @@ function Help(props) {
                     <p className="subtitle">
                         Kliknij projekt, który jest Twoim zdaniem ciekawszy
                     </p>
-                    <a href="#" onClick={(e) => {
+                    <a role="button" className="button is-large" onClick={(e) => {
                         e.preventDefault();
                         props.onClick();
                     }}>Rozumiem, zaczynajmy!</a>

@@ -100,7 +100,7 @@ function Start() {
                         <div className="navbar-end">
                             <div className="navbar-item">
                                 <div className="buttons">
-                                    <Link to={"/vote"} className="button is-dark">Zagłosuj</Link>
+                                    <Link to={"/vote"} className="button is-ue">Zagłosuj</Link>
                                 </div>
                             </div>
                         </div>

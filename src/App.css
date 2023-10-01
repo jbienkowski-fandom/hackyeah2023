@@ -74,6 +74,11 @@
   }
 }
 
+.button.is-ue {
+  background-color: #039;
+  color: #fff;
+}
+
 .card.fade-in {
   animation: fadeInAnimation ease 3s;
   animation-iteration-count: 1;
@@ -81,7 +86,7 @@
 }
 
 .card.is-hoverable:hover {
-  border: 5px solid rgba(0, 255, 0, 0.5);
+  border: 5px solid #93caff;
   border-radius: 10px;
 }
 

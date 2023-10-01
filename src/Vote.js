@@ -75,7 +75,7 @@ function Vote() {
                     <div className="navbar-end">
                         <div className="navbar-item">
                             <div className="buttons">
-                                <button className="button is-dark js-modal-trigger" data-target="modal-ranking">
+                                <button className="button is-ue js-modal-trigger" data-target="modal-ranking">
                                     Ranking
                                 </button>
                             </div>

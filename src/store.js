@@ -12,27 +12,36 @@ export const useStore = create((set) => ({
         id: parseInt(project.url.match(idRegex)?.[1], 10),
         score: INITIAL_SCORE,
     })),
+    winningProject: null,
     visibleProjects: [],
     setVisibleProjects: (visibleProjects) => set({visibleProjects}),
-    vote: (winningProject, losingProject) => set((state) => {
+    vote: (winningProject, losingProject, isRight) => set((state) => {
         const expectedWinningScore = rank.getExpected(winningProject.score, losingProject.score);
         const expectedLosingScore = rank.getExpected(losingProject.score, winningProject.score);
+        const winningScore = rank.updateRating(expectedWinningScore, 1, winningProject.score);
+        const losingScore = rank.updateRating(expectedLosingScore, 0, losingProject.score);
+        const _projects = state.projects.map(project => {
+            if (project.id === winningProject.id) {
+                return {
+                    ...winningProject,
+                    score: winningScore
+                };
+            }
+            if (project.id === losingProject.id) {
+                return {
+                    ...losingProject,
+                    score: losingScore
+                };
+            }
+            return project;
+        });
+        const _winningProject = {
+            ..._projects.find(p => p.id === winningProject.id),
+            isRight,
+        };
         return {
-            projects: state.projects.map(project => {
-                if (project.id === winningProject.id) {
-                    return {
-                        ...winningProject,
-                        score: rank.updateRating(expectedWinningScore, 1, winningProject.score)
-                    };
-                }
-                if (project.id === losingProject.id) {
-                    return {
-                        ...losingProject,
-                        score: rank.updateRating(expectedLosingScore, 0, losingProject.score)
-                    };
-                }
-                return project;
-            })
+            winningProject: _winningProject,
+            projects: _projects,
         }
     })
 }))

@@ -70,9 +70,13 @@ const VisibleProjects = () => {
                                                           position={[project.coords.lat, project.coords.long]}
                                                           icon={customIcon}>
         <Popup>
+            <a className="tag is-light is-pulled-right is-rounded" href={project.url}
+                target="_blank"
+                rel="noreferrer"><span className="icon"><i
+                    className="fa-solid fa-up-right-from-square"></i></span></a>
             <h3>{project.tytul}</h3>
-            <p>Wartość projektu: {project.wartosc}</p>
-            <p>Dofinansowanie UE: {project.dofinansowanie}</p>
+            <p>Wartość projektu: <b>{project.wartosc}</b></p>
+            <p>Dofinansowanie UE: <b className="orange">{project.dofinansowanie}</b></p>
         </Popup>
     </Marker>));
 }

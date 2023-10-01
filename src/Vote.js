@@ -3,6 +3,7 @@ import {Link} from "react-router-dom";
 import Help from "./Help";
 import Projects from "./Projects";
 import Ranking from "./Ranking";
+import Navbar from "./Navbar";
 
 function Vote() {
     const [menuExpanded, setMenuExpanded] = useState(false);
@@ -57,33 +58,17 @@ function Vote() {
         });
         timeoutRef.current = setTimeout(() => hideHelp(), 5000);
     }, []);
+
+    const rankingButton = () => {
+        return (
+            <button className="button is-ue js-modal-trigger" data-target="modal-ranking">
+                Ranking
+            </button>
+        );
+    }
+
     return (<>
-        <nav className="navbar is-transparent">
-            <div className="container">
-                <div className="navbar-brand">
-                    <Link to={'/'} className="navbar-item">
-                        <img src="https://mapadotacji.gov.pl/wp-content/uploads/2019/02/logo.png" alt="logo"/>
-                    </Link>
-                    <a role="button" className={`navbar-burger ${menuExpanded ? 'is-active' : ''}`} aria-label="menu"
-                       aria-expanded="false" data-target="navVoteMenu" onClick={() => setMenuExpanded(!menuExpanded)}>
-                        <span aria-hidden="true"></span>
-                        <span aria-hidden="true"></span>
-                        <span aria-hidden="true"></span>
-                    </a>
-                </div>
-                <div id="navVoteMenu" className={`navbar-menu ${menuExpanded ? 'is-active' : ''}`}>
-                    <div className="navbar-end">
-                        <div className="navbar-item">
-                            <div className="buttons">
-                                <button className="button is-ue js-modal-trigger" data-target="modal-ranking">
-                                    Ranking
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </nav>
+        <Navbar buttonsContent={rankingButton}/>
         <div id="modal-ranking" className="modal">
             <div className="modal-background"></div>
 

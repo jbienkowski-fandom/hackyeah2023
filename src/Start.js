@@ -1,9 +1,10 @@
-import React, {useEffect, useState} from "react";
+import React, {useEffect} from "react";
 import {Link} from 'react-router-dom';
 import {icon} from 'leaflet';
 import {MapContainer, Marker, Popup, TileLayer, useMap} from 'react-leaflet';
 import MarkerClusterGroup from 'react-leaflet-cluster';
 import {useStore} from "./store";
+import Navbar from "./Navbar";
 
 const Title = () => (<div className="container has-text-centered">
     <br />
@@ -84,33 +85,15 @@ const VisibleProjects = () => {
 function Start() {
     const defaultMarkerCoordinates = [52.14697334064471, 19.62158203125];
     const isMobile = window.innerWidth < 769;
-    const [menuExpanded, setMenuExpanded] = useState(false);
+    const votingButton = () => {
+        return (
+            <Link to={"/vote"} className="button is-ue">Zagłosuj</Link>
+        );
+    }
 
     return (
         <>
-            <nav className="navbar">
-                <div className="container">
-                    <div className="navbar-brand">
-                        <Link to={'/'} className="navbar-item">
-                            <img src="https://mapadotacji.gov.pl/wp-content/uploads/2019/02/logo.png" alt="logo"/>
-                        </Link>
-                        <a role="button" className={`navbar-burger ${menuExpanded ? 'is-active' : ''}`} aria-label="menu" aria-expanded="false" data-target="navMenu" onClick={() => setMenuExpanded(!menuExpanded)}>
-                            <span aria-hidden="true"></span>
-                            <span aria-hidden="true"></span>
-                            <span aria-hidden="true"></span>
-                        </a>
-                    </div>
-                    <div id="navMenu" className={`navbar-menu ${menuExpanded ? 'is-active' : ''}`}>
-                        <div className="navbar-end">
-                            <div className="navbar-item">
-                                <div className="buttons">
-                                    <Link to={"/vote"} className="button is-ue">Zagłosuj</Link>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </nav>
+            <Navbar buttonsContent={votingButton} />
             <section className="hero is-fullheight is-info">
                 <div className="hero-head">
                     <Title/>

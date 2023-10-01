@@ -30,6 +30,18 @@
   color: #000;
 }
 
+.logo {
+  font-weight: bold;
+  color: #039;
+}
+
+.logo span {
+  background-color: #039;
+  color: #fff;
+  margin-left: 3px;
+  padding: 3px;
+}
+
 .big {
   font-size: 3.625rem;
   font-weight: bold;

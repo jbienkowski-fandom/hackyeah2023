@@ -3,7 +3,8 @@ import {useStore} from "./store";
 
 function Ranking() {
     const projects = useStore(state => state.projects);
-    const sortedProjects = projects.sort((a, b) => b.score - a.score);
+    const sortedProjects = projects.sort(
+        (a, b) => b.score === a.score ? a.tytul.localeCompare(b.tytul) : b.score - a.score);
 
     return (
         <div className="table-container">
@@ -14,6 +15,7 @@ function Ranking() {
                     <th>Projekt</th>
                     <th>Beneficjent</th>
                     <th>Wynik</th>
+                    <th></th>
                 </tr>
                 </thead>
                 <tbody>
@@ -23,6 +25,10 @@ function Ranking() {
                         <td>{project.tytul}</td>
                         <td>{project.beneficjent}</td>
                         <td>{project.score}</td>
+                        <td><a className="tag is-light is-pulled-right is-rounded" href={project.url}
+                               target="_blank"
+                               rel="noreferrer"><span className="icon"><i
+                            className="fa-solid fa-up-right-from-square"></i></span></a></td>
                     </tr>
                 ))}
                 </tbody>

@@ -20,6 +20,10 @@
     height: 65vh;
     width: 45vw;
   }
+
+  .modal-content {
+    width: 70vw;
+  }
 }
 
 #map .leaflet-control-container {

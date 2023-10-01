@@ -7,10 +7,7 @@ import {useStore} from "./store";
 
 const Menu = () => (<>
     <p className="title">
-        EUfunds title
-    </p>
-    <p className="subtitle">
-        <Link to={'/vote'}>Głosuj teraz!</Link>
+        Poznaj Fundusze Europejskie
     </p>
 </>);
 
@@ -82,29 +79,51 @@ function Start() {
     const defaultMarkerCoordinates = [52.14697334064471, 19.62158203125];
     const isMobile = window.innerWidth < 769;
 
-    return (<section className="hero is-fullheight is-info">
-        <div className="hero-body">
-            <div className="container has-text-centered">
-                <Menu/>
-                <div className="columns">
-                    <div className="column is-half aligned-left">
-                        <ProjectsSummary/>
+    return (
+        <>
+            <nav className="navbar">
+                <div className="container">
+                    <div id="navMenu" className="navbar-menu is-transparent">
+                        <div className="navbar-start">
+                            <a className="navbar-item">
+                                <img src="https://mapadotacji.gov.pl/wp-content/uploads/2019/02/logo.png" alt="logo" />
+                            </a>
+                        </div>
+
+                        <div className="navbar-end">
+                            <div className="navbar-item">
+                                <div className="buttons">
+                                    <Link to={"/vote"} className="button is-dark">Zagłosuj</Link>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <MapContainer id="map" className="column is-half" center={defaultMarkerCoordinates}
-                                  zoom={isMobile ? 5 : 6}
-                                  scrollWheelZoom={false}>
-                        <TileLayer
-                            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-                            url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-                        />
-                        <MarkerClusterGroup chunkedLoading>
-                            <VisibleProjects/>
-                        </MarkerClusterGroup>
-                    </MapContainer>
                 </div>
-            </div>
-        </div>
-    </section>)
+            </nav>
+            <section className="hero is-fullheight is-info">
+                <div className="hero-body">
+                    <div className="container has-text-centered">
+                        <Menu/>
+                        <div className="columns">
+                            <div className="column is-half aligned-left">
+                                <ProjectsSummary/>
+                            </div>
+                            <MapContainer id="map" className="column is-half" center={defaultMarkerCoordinates}
+                                          zoom={isMobile ? 5 : 6}
+                                          scrollWheelZoom={false}>
+                                <TileLayer
+                                    attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                                    url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+                                />
+                                <MarkerClusterGroup chunkedLoading>
+                                    <VisibleProjects/>
+                                </MarkerClusterGroup>
+                            </MapContainer>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </>)
 }
 
 export default Start;

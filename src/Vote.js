@@ -1,10 +1,11 @@
 import React, {useEffect, useState, useRef} from "react";
-import {Link} from "react-router-dom";
+import {Link, useHistory} from "react-router-dom";
 import Help from "./Help";
 import Projects from "./Projects";
 import Ranking from "./Ranking";
 
 function Vote() {
+    const history = useHistory();
     const [displayHelp, setDisplayHelp] = useState(sessionStorage.getItem('displayHelp') !== 'false');
     const hideHelp = () => {
         setDisplayHelp(false);
@@ -58,13 +59,24 @@ function Vote() {
     }, []);
     return (<>
         <nav className="navbar is-transparent">
-            <div className="navbar-brand">
-                <Link to={'/'} className="navbar-item">Start</Link>
-            </div>
-            <div className="navbar-end is-active">
-                <a href="#" className="navbar-item js-modal-trigger" data-target="modal-ranking">
-                    Ranking
-                </a>
+            <div className="container">
+                <div id="navVoteMenu" className="navbar-menu is-transparent">
+                    <div className="navbar-start">
+                        <Link to={'/'} className="navbar-item">
+                            <img src="https://mapadotacji.gov.pl/wp-content/uploads/2019/02/logo.png" alt="logo"/>
+                        </Link>
+                    </div>
+
+                    <div className="navbar-end">
+                        <div className="navbar-item">
+                            <div className="buttons">
+                                <button className="button is-dark js-modal-trigger" data-target="modal-ranking">
+                                    Ranking
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </nav>
         <div id="modal-ranking" className="modal">

@@ -6,13 +6,13 @@ import MarkerClusterGroup from 'react-leaflet-cluster';
 import {useStore} from "./store";
 
 const Menu = () => (<>
-        <p className="title">
-            EUfunds title
-        </p>
-        <p className="subtitle">
-            <Link to={'/vote'}>Głosuj</Link>
-        </p>
-    </>);
+    <p className="title">
+        EUfunds title
+    </p>
+    <p className="subtitle">
+        <Link to={'/vote'}>Głosuj</Link>
+    </p>
+</>);
 
 const ProjectsSummary = () => {
     const visibleProjects = useStore(state => state.visibleProjects);
@@ -22,14 +22,14 @@ const ProjectsSummary = () => {
     const sumDofinansowanie = visibleProjects.reduce((acc, v) => acc + parseToNum(v.dofinansowanie), 0).toFixed(2);
 
     return (<>
-            <div className="big orange">Polska</div>
-            <div className="margin-top">liczba projektów</div>
-            <div className="medium">{visibleProjects.length}</div>
-            <div className="margin-top">wartość projektów</div>
-            <div className="medium">{formatNum(sumWartosc)} zł</div>
-            <div className="margin-top">dofinansowanie z Unii Europejskiej</div>
-            <div className="orange medium bold">{formatNum(sumDofinansowanie)} zł</div>
-        </>);
+        <div className="big orange">Polska</div>
+        <div className="margin-top">liczba projektów</div>
+        <div className="medium">{visibleProjects.length}</div>
+        <div className="margin-top">wartość projektów</div>
+        <div className="medium">{formatNum(sumWartosc)} zł</div>
+        <div className="margin-top">dofinansowanie z Unii Europejskiej</div>
+        <div className="orange medium bold">{formatNum(sumDofinansowanie)} zł</div>
+    </>);
 }
 
 const VisibleProjects = () => {
@@ -70,39 +70,41 @@ const VisibleProjects = () => {
     return (visibleProjects.map((project, idx) => <Marker key={idx}
                                                           position={[project.coords.lat, project.coords.long]}
                                                           icon={customIcon}>
-            <Popup>
-                <h3>{project.tytul}</h3>
-                <p>Wartość projektu: {project.wartosc}</p>
-                <p>Dofinansowanie UE: {project.dofinansowanie}</p>
-            </Popup>
-        </Marker>));
+        <Popup>
+            <h3>{project.tytul}</h3>
+            <p>Wartość projektu: {project.wartosc}</p>
+            <p>Dofinansowanie UE: {project.dofinansowanie}</p>
+        </Popup>
+    </Marker>));
 }
 
 function Start() {
-    const defaultMarkerCoordinates = [52.23210346936886, 21.024108900043892];
+    const defaultMarkerCoordinates = [52.14697334064471, 19.62158203125];
+    const isMobile = window.innerWidth < 769;
 
     return (<section className="hero is-fullheight is-info">
-            <div className="hero-body">
-                <div className="container has-text-centered">
-                    <Menu/>
-                    <div className="columns">
-                        <div className="column is-half aligned-left">
-                            <ProjectsSummary/>
-                        </div>
-                        <MapContainer id="map" className="column is-half" center={defaultMarkerCoordinates} zoom={13}
-                                      scrollWheelZoom={false}>
-                            <TileLayer
-                                attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-                                url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-                            />
-                            <MarkerClusterGroup chunkedLoading>
-                                <VisibleProjects/>
-                            </MarkerClusterGroup>
-                        </MapContainer>
+        <div className="hero-body">
+            <div className="container has-text-centered">
+                <Menu/>
+                <div className="columns">
+                    <div className="column is-half aligned-left">
+                        <ProjectsSummary/>
                     </div>
+                    <MapContainer id="map" className="column is-half" center={defaultMarkerCoordinates}
+                                  zoom={isMobile ? 5 : 6}
+                                  scrollWheelZoom={false}>
+                        <TileLayer
+                            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                            url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+                        />
+                        <MarkerClusterGroup chunkedLoading>
+                            <VisibleProjects/>
+                        </MarkerClusterGroup>
+                    </MapContainer>
                 </div>
             </div>
-        </section>)
+        </div>
+    </section>)
 }
 
 export default Start;

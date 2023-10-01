@@ -10,7 +10,7 @@ const Menu = () => (<>
         EUfunds title
     </p>
     <p className="subtitle">
-        <Link to={'/vote'}>Głosuj</Link>
+        <Link to={'/vote'}>Głosuj teraz!</Link>
     </p>
 </>);
 

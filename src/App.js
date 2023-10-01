@@ -15,8 +15,8 @@ function App() {
         <Router>
             <Switch>
                 <Route path="/vote"><Vote/></Route>
-                <Route path="/project-embed"><ProjectEmbed /></Route>
-                <Route path="/"><Start /></Route>
+                <Route path="/project-embed"><ProjectEmbed/></Route>
+                <Route path="/"><Start/></Route>
             </Switch>
         </Router>
     );

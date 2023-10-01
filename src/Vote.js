@@ -1,11 +1,11 @@
 import React, {useEffect, useState, useRef} from "react";
-import {Link, useHistory} from "react-router-dom";
+import {Link} from "react-router-dom";
 import Help from "./Help";
 import Projects from "./Projects";
 import Ranking from "./Ranking";
 
 function Vote() {
-    const history = useHistory();
+    const [menuExpanded, setMenuExpanded] = useState(false);
     const [displayHelp, setDisplayHelp] = useState(sessionStorage.getItem('displayHelp') !== 'false');
     const hideHelp = () => {
         setDisplayHelp(false);
@@ -60,13 +60,18 @@ function Vote() {
     return (<>
         <nav className="navbar is-transparent">
             <div className="container">
-                <div id="navVoteMenu" className="navbar-menu is-transparent">
-                    <div className="navbar-start">
-                        <Link to={'/'} className="navbar-item">
-                            <img src="https://mapadotacji.gov.pl/wp-content/uploads/2019/02/logo.png" alt="logo"/>
-                        </Link>
-                    </div>
-
+                <div className="navbar-brand">
+                    <Link to={'/'} className="navbar-item">
+                        <img src="https://mapadotacji.gov.pl/wp-content/uploads/2019/02/logo.png" alt="logo"/>
+                    </Link>
+                    <a role="button" className={`navbar-burger ${menuExpanded ? 'is-active' : ''}`} aria-label="menu"
+                       aria-expanded="false" data-target="navVoteMenu" onClick={() => setMenuExpanded(!menuExpanded)}>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                    </a>
+                </div>
+                <div id="navVoteMenu" className={`navbar-menu ${menuExpanded ? 'is-active' : ''}`}>
                     <div className="navbar-end">
                         <div className="navbar-item">
                             <div className="buttons">

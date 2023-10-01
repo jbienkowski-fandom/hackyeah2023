@@ -49,8 +49,8 @@ function Projects() {
     const vote = useStore(state => state.vote);
     const shuffledProjects = projects.sort(() => Math.random() - 0.5);
     const randomProjects = winningProject !== null ?
-                           winningProject.isRight ? [...shuffledProjects.slice(0, 1), winningProject]
-                                                  : [winningProject, ...shuffledProjects.slice(0, 1)]
+                           winningProject.isRight ? [...shuffledProjects.filter(p => p.id !== winningProject.id).slice(0, 1), winningProject]
+                                                  : [winningProject, ...shuffledProjects.filter(p => p.id !== winningProject.id).slice(0, 1)]
                                                    : shuffledProjects.slice(0, 2);
 
     const onVote = (winningProject, isRight) => {

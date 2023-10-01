@@ -6,6 +6,8 @@ import MarkerClusterGroup from 'react-leaflet-cluster';
 import {useStore} from "./store";
 import Navbar from "./Navbar";
 
+const DEFAULT_EMBED_SRC_WITH_MACRO = 'https://teamcities-hackyeah2023.netlify.app/project-embed?projectId={%PROJECT_ID%}';
+
 const Title = () => (<div className="container has-text-centered">
     <br />
     <br />
@@ -13,6 +15,16 @@ const Title = () => (<div className="container has-text-centered">
         Poznaj Fundusze Europejskie
     </p>
 </div>);
+
+const EmbedCode = () => {
+    const embedCodeWithMacro = `<iframe 
+    width="640"
+    height="220"
+    src="${DEFAULT_EMBED_SRC_WITH_MACRO}">
+</iframe>`;
+    
+    return <textarea id="embedCodeText" disabled value={embedCodeWithMacro}></textarea>
+};
 
 const ProjectsSummary = () => {
     const visibleProjects = useStore(state => state.visibleProjects);
@@ -67,6 +79,16 @@ const VisibleProjects = () => {
         setVisibleProjects(newVisibleProjects);
     };
 
+    const showEmbedModal = (event) => {
+        const modal = document.getElementById('modal-embed');
+        const projectUrlArray = (event?.target?.dataset?.projectUrl || "").split("/");
+        const projectId = projectUrlArray.length > 1 ? projectUrlArray[projectUrlArray.length - 2] : 0;
+        const currentCode = modal.querySelector('#embedCodeText').value;
+        modal.querySelector('#embedCodeText').value = currentCode.replace('{%PROJECT_ID%}', projectId);
+
+        modal.classList.add('is-active');
+    };
+
     return (visibleProjects.map((project, idx) => <Marker key={idx}
                                                           position={[project.coords.lat, project.coords.long]}
                                                           icon={customIcon}>
@@ -75,6 +97,11 @@ const VisibleProjects = () => {
                 target="_blank"
                 rel="noreferrer"><span className="icon"><i
                     className="fa-solid fa-up-right-from-square"></i></span></a>
+            <a className="tag is-light is-pulled-right is-rounded" target="_blank">
+                <span className="icon">
+                    <i className="fa-solid fa-code" onClick={showEmbedModal} data-project-url={project.url}></i>
+                </span>
+            </a>
             <h3>{project.tytul}</h3>
             <p>Wartość projektu: <b>{project.wartosc}</b></p>
             <p>Dofinansowanie UE: <b className="orange">{project.dofinansowanie}</b></p>
@@ -91,9 +118,25 @@ function Start() {
         );
     }
 
+    const closeModal = () => {
+        const modal = document.getElementById('modal-embed');
+        modal.querySelector('#embedCodeText').value = DEFAULT_EMBED_SRC_WITH_MACRO;
+        modal.classList.remove('is-active');
+    };
+
     return (
         <>
             <Navbar buttonsContent={votingButton} />
+            <div id="modal-embed" className="modal">
+                <div className="modal-background"></div>
+
+                <div className="modal-content">
+                    <p>Skopiuj kod i wklej go na swoją stronę:</p>
+                    <EmbedCode />
+                </div>
+
+                <button className="modal-close is-large" aria-label="close" onClick={closeModal}></button>
+            </div>
             <section className="hero is-fullheight is-info">
                 <div className="hero-head">
                     <Title/>

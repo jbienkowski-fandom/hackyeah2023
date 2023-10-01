@@ -7,7 +7,7 @@ const retriveProjectId = () => {
 
 function ProjectEmbed() {
     const projectId = retriveProjectId();
-    const project = projectId ? projects[projectId] : false;
+    const project = projectId ? projects.filter(p => p.url.includes(projectId)).shift() : false;
 
     return (project && 
         <div className="card embed">
